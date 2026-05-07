@@ -1,25 +1,229 @@
 {
-  "last_updated": "2026-05-07T16:58:12+00:00",
-  "total_notes": 22,
+  "last_updated": "2026-05-07T17:19:05+00:00",
+  "last_full_reindex": "2026-05-07T17:10:07+00:00",
+  "total_notes": 23,
+  "note_type_counts": {
+    "idea": 2,
+    "reference": 0,
+    "task": 0,
+    "log": 0,
+    "meeting": 0,
+    "book": 0,
+    "person": 0,
+    "code": 0
+  },
+  "para_folder_counts": {
+    "00_Inbox": 0,
+    "10_Projects": 0,
+    "20_Areas": 2,
+    "30_Resources": 0,
+    "40_Archives": 0,
+    "99_System": 0
+  },
   "tags": [
     "aadhaar",
     "academics",
     "bca",
+    "brass",
     "certificate",
+    "cnc",
     "degree",
+    "feed-rate",
     "government",
     "govt",
     "id",
+    "manufacturing",
     "mca",
     "pdc",
     "pipeline",
     "result",
     "resume",
     "school",
-    "test"
+    "test",
+    "tooling"
   ],
+  "tag_frequency": {
+    "aadhaar": 1,
+    "academics": 15,
+    "bca": 6,
+    "brass": 1,
+    "certificate": 1,
+    "cnc": 1,
+    "degree": 1,
+    "feed-rate": 1,
+    "government": 1,
+    "govt": 1,
+    "id": 2,
+    "manufacturing": 1,
+    "mca": 6,
+    "pdc": 1,
+    "pipeline": 1,
+    "result": 12,
+    "resume": 1,
+    "school": 3,
+    "test": 1,
+    "tooling": 1
+  },
   "future_tags": [
-    "automation"
+    "automation",
+    "production-optimization",
+    "surface-finish-analysis",
+    "vmc-learning"
+  ],
+  "orphan_notes": [
+    "10_result.md",
+    "12_leave.md",
+    "12_result.md",
+    "Cnc_Brass_Feed_Rate_Observation.md",
+    "Meditations - Marcus Aurelius.md",
+    "Test_Note_Pipeline.md",
+    "Untitled.md",
+    "addhar_card.md",
+    "bca_sem_1.md",
+    "bca_sem_2.md",
+    "bca_sem_3.md",
+    "bca_sem_4.md",
+    "bca_sem_5.md",
+    "bca_sem_6.md",
+    "mca_sem_1.md",
+    "mca_sem_2.md",
+    "mca_sem_3.md",
+    "mca_sem_4.md",
+    "meta.md",
+    "meta.md",
+    "meta.md",
+    "parul_pdc.md",
+    "parul_resume.md"
+  ],
+  "top_backlink_targets": [
+    {
+      "title": "Kapil_Products_Workflow",
+      "filename": "",
+      "link_count": 1
+    },
+    {
+      "title": "NX11_Training_Notes",
+      "filename": "",
+      "link_count": 1
+    },
+    {
+      "title": "Manufacturing_Learnings",
+      "filename": "",
+      "link_count": 1
+    }
+  ],
+  "last_10_notes": [
+    {
+      "title": "CNC_Brass_Feed_Rate_Observation",
+      "filename": "Cnc_Brass_Feed_Rate_Observation.md",
+      "note_type": "idea",
+      "tags": [
+        "cnc",
+        "manufacturing",
+        "brass",
+        "tooling",
+        "feed-rate"
+      ],
+      "modified_at": "2026-05-07T17:19:05+00:00"
+    },
+    {
+      "title": "Test Note Pipeline",
+      "filename": "Test_Note_Pipeline.md",
+      "note_type": "idea",
+      "tags": [
+        "test",
+        "pipeline"
+      ],
+      "modified_at": "2026-05-07T16:58:12+00:00"
+    },
+    {
+      "title": "10_result",
+      "filename": "10_result.md",
+      "note_type": "",
+      "tags": [
+        "result",
+        "academics",
+        "school"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "12_leave",
+      "filename": "12_leave.md",
+      "note_type": "",
+      "tags": [
+        "academics",
+        "school",
+        "certificate"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "12_result",
+      "filename": "12_result.md",
+      "note_type": "",
+      "tags": [
+        "result",
+        "academics",
+        "school"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "addhar_card",
+      "filename": "addhar_card.md",
+      "note_type": "",
+      "tags": [
+        "id",
+        "aadhaar",
+        "govt"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "bca_sem_1",
+      "filename": "bca_sem_1.md",
+      "note_type": "",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "bca_sem_2",
+      "filename": "bca_sem_2.md",
+      "note_type": "",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "bca_sem_3",
+      "filename": "bca_sem_3.md",
+      "note_type": "",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    },
+    {
+      "title": "bca_sem_4",
+      "filename": "bca_sem_4.md",
+      "note_type": "",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "modified_at": "2026-05-07T16:42:55+00:00"
+    }
   ],
   "notes": [
     {
@@ -30,10 +234,14 @@
         "academics",
         "school"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "12_leave",
@@ -43,10 +251,14 @@
         "school",
         "certificate"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "12_result",
@@ -56,10 +268,14 @@
         "academics",
         "school"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "addhar_card",
@@ -69,10 +285,14 @@
         "aadhaar",
         "govt"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "bca_sem_1",
@@ -82,10 +302,14 @@
         "result",
         "academics"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "bca_sem_2",
@@ -95,10 +319,14 @@
         "result",
         "academics"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "bca_sem_3",
@@ -108,10 +336,14 @@
         "result",
         "academics"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "bca_sem_4",
@@ -121,10 +353,14 @@
         "result",
         "academics"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "bca_sem_5",
@@ -134,10 +370,14 @@
         "result",
         "academics"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "bca_sem_6",
@@ -147,10 +387,14 @@
         "result",
         "academics"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "mca_sem_1",
@@ -160,10 +404,14 @@
         "academics",
         "mca"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "mca_sem_2",
@@ -173,10 +421,14 @@
         "academics",
         "mca"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "mca_sem_3",
@@ -186,10 +438,14 @@
         "academics",
         "mca"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "mca_sem_4",
@@ -199,28 +455,40 @@
         "academics",
         "mca"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "Meditations",
       "filename": "Meditations - Marcus Aurelius.md",
       "tags": [],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "Driving License",
       "filename": "meta.md",
       "tags": [],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "meta",
@@ -229,19 +497,27 @@
         "government",
         "id"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": "active"
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "active",
+      "source": "manual"
     },
     {
       "title": "PAN Card",
       "filename": "meta.md",
       "tags": [],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "parul_pdc",
@@ -252,10 +528,14 @@
         "academics",
         "mca"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "parul_resume",
@@ -265,10 +545,14 @@
         "academics",
         "mca"
       ],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
     },
     {
       "title": "Test Note Pipeline",
@@ -277,20 +561,67 @@
         "test",
         "pipeline"
       ],
+      "future_tags": [
+        "automation"
+      ],
+      "backlinks": [],
       "note_type": "idea",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "2025-05-07T16:00:00",
-      "status": "inbox"
+      "modified_at": "2026-05-07T16:58:12+00:00",
+      "status": "inbox",
+      "source": "telegram-bot"
     },
     {
       "title": "Untitled",
       "filename": "Untitled.md",
       "tags": [],
+      "future_tags": [],
+      "backlinks": [],
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "status": ""
+      "modified_at": "2026-05-07T16:42:55+00:00",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "CNC_Brass_Feed_Rate_Observation",
+      "filename": "Cnc_Brass_Feed_Rate_Observation.md",
+      "tags": [
+        "cnc",
+        "manufacturing",
+        "brass",
+        "tooling",
+        "feed-rate"
+      ],
+      "future_tags": [
+        "production-optimization",
+        "surface-finish-analysis",
+        "vmc-learning"
+      ],
+      "backlinks": [
+        "Kapil_Products_Workflow",
+        "NX11_Training_Notes",
+        "Manufacturing_Learnings"
+      ],
+      "note_type": "idea",
+      "para_suggestion": "20_Areas/Manufacturing",
+      "created_date": "2026-05-07",
+      "modified_at": "2026-05-07T17:19:05+00:00",
+      "status": "inbox",
+      "source": "telegram-bot"
     }
   ],
-  "backlinks": {}
+  "backlinks": {
+    "Kapil_Products_Workflow": [
+      "Cnc_Brass_Feed_Rate_Observation"
+    ],
+    "Manufacturing_Learnings": [
+      "Cnc_Brass_Feed_Rate_Observation"
+    ],
+    "NX11_Training_Notes": [
+      "Cnc_Brass_Feed_Rate_Observation"
+    ]
+  }
 }
