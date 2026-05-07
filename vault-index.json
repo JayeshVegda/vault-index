@@ -1,1 +1,296 @@
-{"tags":[],"notes":[],"backlinks":{}}
+{
+  "last_updated": "2026-05-07T16:58:12+00:00",
+  "total_notes": 22,
+  "tags": [
+    "aadhaar",
+    "academics",
+    "bca",
+    "certificate",
+    "degree",
+    "government",
+    "govt",
+    "id",
+    "mca",
+    "pdc",
+    "pipeline",
+    "result",
+    "resume",
+    "school",
+    "test"
+  ],
+  "future_tags": [
+    "automation"
+  ],
+  "notes": [
+    {
+      "title": "10_result",
+      "filename": "10_result.md",
+      "tags": [
+        "result",
+        "academics",
+        "school"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "12_leave",
+      "filename": "12_leave.md",
+      "tags": [
+        "academics",
+        "school",
+        "certificate"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "12_result",
+      "filename": "12_result.md",
+      "tags": [
+        "result",
+        "academics",
+        "school"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "addhar_card",
+      "filename": "addhar_card.md",
+      "tags": [
+        "id",
+        "aadhaar",
+        "govt"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "bca_sem_1",
+      "filename": "bca_sem_1.md",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "bca_sem_2",
+      "filename": "bca_sem_2.md",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "bca_sem_3",
+      "filename": "bca_sem_3.md",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "bca_sem_4",
+      "filename": "bca_sem_4.md",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "bca_sem_5",
+      "filename": "bca_sem_5.md",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "bca_sem_6",
+      "filename": "bca_sem_6.md",
+      "tags": [
+        "bca",
+        "result",
+        "academics"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "mca_sem_1",
+      "filename": "mca_sem_1.md",
+      "tags": [
+        "result",
+        "academics",
+        "mca"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "mca_sem_2",
+      "filename": "mca_sem_2.md",
+      "tags": [
+        "result",
+        "academics",
+        "mca"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "mca_sem_3",
+      "filename": "mca_sem_3.md",
+      "tags": [
+        "result",
+        "academics",
+        "mca"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "mca_sem_4",
+      "filename": "mca_sem_4.md",
+      "tags": [
+        "result",
+        "academics",
+        "mca"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "Meditations",
+      "filename": "Meditations - Marcus Aurelius.md",
+      "tags": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "Driving License",
+      "filename": "meta.md",
+      "tags": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "meta",
+      "filename": "meta.md",
+      "tags": [
+        "government",
+        "id"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": "active"
+    },
+    {
+      "title": "PAN Card",
+      "filename": "meta.md",
+      "tags": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "parul_pdc",
+      "filename": "parul_pdc.md",
+      "tags": [
+        "degree",
+        "pdc",
+        "academics",
+        "mca"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "parul_resume",
+      "filename": "parul_resume.md",
+      "tags": [
+        "resume",
+        "academics",
+        "mca"
+      ],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    },
+    {
+      "title": "Test Note Pipeline",
+      "filename": "Test_Note_Pipeline.md",
+      "tags": [
+        "test",
+        "pipeline"
+      ],
+      "note_type": "idea",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "2025-05-07T16:00:00",
+      "status": "inbox"
+    },
+    {
+      "title": "Untitled",
+      "filename": "Untitled.md",
+      "tags": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "status": ""
+    }
+  ],
+  "backlinks": {}
+}
