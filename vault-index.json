@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T17:19:05+00:00",
+  "last_updated": "2026-05-07T17:20:26+00:00",
   "last_full_reindex": "2026-05-07T17:10:07+00:00",
-  "total_notes": 23,
+  "total_notes": 24,
   "note_type_counts": {
-    "idea": 2,
+    "idea": 3,
     "reference": 0,
     "task": 0,
     "log": 0,
@@ -15,7 +15,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 2,
+    "20_Areas": 3,
     "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
@@ -32,49 +32,61 @@
     "government",
     "govt",
     "id",
+    "machining",
     "manufacturing",
     "mca",
     "pdc",
     "pipeline",
+    "production",
     "result",
     "resume",
     "school",
+    "shop-floor",
     "test",
-    "tooling"
+    "tooling",
+    "vmc"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 15,
     "bca": 6,
-    "brass": 1,
+    "brass": 2,
     "certificate": 1,
-    "cnc": 1,
+    "cnc": 2,
     "degree": 1,
     "feed-rate": 1,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "manufacturing": 1,
+    "machining": 1,
+    "manufacturing": 2,
     "mca": 6,
     "pdc": 1,
     "pipeline": 1,
+    "production": 1,
     "result": 12,
     "resume": 1,
     "school": 3,
+    "shop-floor": 1,
     "test": 1,
-    "tooling": 1
+    "tooling": 2,
+    "vmc": 1
   },
   "future_tags": [
     "automation",
+    "factory-scaling",
+    "machine-calibration",
     "production-optimization",
     "surface-finish-analysis",
-    "vmc-learning"
+    "vmc-learning",
+    "workflow-improvement"
   ],
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
     "Cnc_Brass_Feed_Rate_Observation.md",
+    "Cnc_Brass_Machining_Process_Optimization_Insights.md",
     "Meditations - Marcus Aurelius.md",
     "Test_Note_Pipeline.md",
     "Untitled.md",
@@ -97,22 +109,53 @@
   ],
   "top_backlink_targets": [
     {
+      "title": "NX11_Training_Notes",
+      "filename": "",
+      "link_count": 2
+    },
+    {
+      "title": "Manufacturing_Learnings",
+      "filename": "",
+      "link_count": 2
+    },
+    {
       "title": "Kapil_Products_Workflow",
       "filename": "",
       "link_count": 1
     },
     {
-      "title": "NX11_Training_Notes",
+      "title": "Kapil_Products_Operations",
       "filename": "",
       "link_count": 1
     },
     {
-      "title": "Manufacturing_Learnings",
+      "title": "Daily_Shop_Floor_Observations",
+      "filename": "",
+      "link_count": 1
+    },
+    {
+      "title": "Future_CNC_Expansion_Plans",
       "filename": "",
       "link_count": 1
     }
   ],
   "last_10_notes": [
+    {
+      "title": "CNC_Brass_Machining_Process_Optimization_Insights",
+      "filename": "Cnc_Brass_Machining_Process_Optimization_Insights.md",
+      "note_type": "idea",
+      "tags": [
+        "cnc",
+        "manufacturing",
+        "brass",
+        "machining",
+        "production",
+        "tooling",
+        "vmc",
+        "shop-floor"
+      ],
+      "modified_at": "2026-05-07T17:20:26+00:00"
+    },
     {
       "title": "CNC_Brass_Feed_Rate_Observation",
       "filename": "Cnc_Brass_Feed_Rate_Observation.md",
@@ -205,17 +248,6 @@
     {
       "title": "bca_sem_3",
       "filename": "bca_sem_3.md",
-      "note_type": "",
-      "tags": [
-        "bca",
-        "result",
-        "academics"
-      ],
-      "modified_at": "2026-05-07T16:42:55+00:00"
-    },
-    {
-      "title": "bca_sem_4",
-      "filename": "bca_sem_4.md",
       "note_type": "",
       "tags": [
         "bca",
@@ -611,17 +643,62 @@
       "modified_at": "2026-05-07T17:19:05+00:00",
       "status": "inbox",
       "source": "telegram-bot"
+    },
+    {
+      "title": "CNC_Brass_Machining_Process_Optimization_Insights",
+      "filename": "Cnc_Brass_Machining_Process_Optimization_Insights.md",
+      "tags": [
+        "cnc",
+        "manufacturing",
+        "brass",
+        "machining",
+        "production",
+        "tooling",
+        "vmc",
+        "shop-floor"
+      ],
+      "future_tags": [
+        "production-optimization",
+        "machine-calibration",
+        "surface-finish-analysis",
+        "workflow-improvement",
+        "factory-scaling"
+      ],
+      "backlinks": [
+        "Kapil_Products_Operations",
+        "NX11_Training_Notes",
+        "Manufacturing_Learnings",
+        "Daily_Shop_Floor_Observations",
+        "Future_CNC_Expansion_Plans"
+      ],
+      "note_type": "idea",
+      "para_suggestion": "20_Areas/Manufacturing",
+      "created_date": "2026-05-07",
+      "modified_at": "2026-05-07T17:20:26+00:00",
+      "status": "inbox",
+      "source": "telegram-bot"
     }
   ],
   "backlinks": {
+    "Daily_Shop_Floor_Observations": [
+      "Cnc_Brass_Machining_Process_Optimization_Insights"
+    ],
+    "Future_CNC_Expansion_Plans": [
+      "Cnc_Brass_Machining_Process_Optimization_Insights"
+    ],
+    "Kapil_Products_Operations": [
+      "Cnc_Brass_Machining_Process_Optimization_Insights"
+    ],
     "Kapil_Products_Workflow": [
       "Cnc_Brass_Feed_Rate_Observation"
     ],
     "Manufacturing_Learnings": [
-      "Cnc_Brass_Feed_Rate_Observation"
+      "Cnc_Brass_Feed_Rate_Observation",
+      "Cnc_Brass_Machining_Process_Optimization_Insights"
     ],
     "NX11_Training_Notes": [
-      "Cnc_Brass_Feed_Rate_Observation"
+      "Cnc_Brass_Feed_Rate_Observation",
+      "Cnc_Brass_Machining_Process_Optimization_Insights"
     ]
   }
 }
