@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-10T05:19:02Z",
-  "last_full_reindex": "2026-05-10T05:19:02Z",
-  "total_notes": 92,
+  "last_updated": "2026-05-10T05:22:13Z",
+  "last_full_reindex": "2026-05-10T05:22:13Z",
+  "total_notes": 21,
   "note_type_counts": {
     "idea": 0,
     "reference": 0,
@@ -21,247 +21,42 @@
     "99_System": 0
   },
   "tags": [
-    "#array",
-    "#bit_manipulation",
-    "#boyer_moore",
-    "#bucket_sort",
-    "#constant_space",
-    "#counting_sort",
-    "#custom_sort",
-    "#custom_sorting",
-    "#divide_and_conquer",
-    "#dutch_flag",
-    "#easy",
-    "#frequency",
-    "#frequency_bucket",
-    "#frequency_count",
-    "#greedy",
-    "#hashmap",
-    "#inplace",
-    "#inplace_merge",
-    "#interval_merge",
-    "#interval_overlap",
-    "#intervals",
-    "#kth_largest",
-    "#medium",
-    "#merge_sort",
-    "#sorted_arrays",
-    "#sorting",
-    "#string",
-    "#string_comparator",
-    "#two_arrays",
-    "#two_pointer",
-    "#two_pointers",
-    "#xor",
     "aadhaar",
-    "absolute_value",
     "academics",
-    "algorithms",
-    "array",
     "bca",
-    "binary_search",
-    "boundaries",
     "certificate",
-    "clippings",
     "degree",
-    "divide-and-conquer",
-    "divisors",
-    "dsa",
-    "easy",
-    "excalidraw",
-    "flattening",
-    "frequency_property",
     "government",
     "govt",
-    "greedy",
-    "hard",
     "id",
-    "math",
-    "matrix",
     "mca",
-    "median",
-    "medium",
-    "merge-sort",
-    "min_value",
-    "missing_number",
-    "monotonic_condition",
-    "monotonic_function",
-    "observation",
-    "partition_logic",
     "pdc",
-    "peak_element",
     "result",
     "resume",
-    "rotated_array",
-    "school",
-    "search_insert",
-    "search_on_answer",
-    "searching",
-    "semester1",
-    "sign_flip",
-    "slope_logic",
-    "sorted_array",
-    "sorting",
-    "sqrt_optimization",
-    "two_pointers"
+    "school"
   ],
   "tag_frequency": {
-    "#array": 12,
-    "#bit_manipulation": 1,
-    "#boyer_moore": 1,
-    "#bucket_sort": 3,
-    "#constant_space": 1,
-    "#counting_sort": 2,
-    "#custom_sort": 3,
-    "#custom_sorting": 1,
-    "#divide_and_conquer": 1,
-    "#dutch_flag": 1,
-    "#easy": 6,
-    "#frequency": 2,
-    "#frequency_bucket": 1,
-    "#frequency_count": 4,
-    "#greedy": 4,
-    "#hashmap": 4,
-    "#inplace": 1,
-    "#inplace_merge": 1,
-    "#interval_merge": 1,
-    "#interval_overlap": 1,
-    "#intervals": 1,
-    "#kth_largest": 1,
-    "#medium": 10,
-    "#merge_sort": 1,
-    "#sorted_arrays": 1,
-    "#sorting": 9,
-    "#string": 2,
-    "#string_comparator": 1,
-    "#two_arrays": 1,
-    "#two_pointer": 1,
-    "#two_pointers": 2,
-    "#xor": 1,
     "aadhaar": 1,
-    "absolute_value": 1,
-    "academics": 16,
-    "algorithms": 1,
-    "array": 13,
-    "bca": 7,
-    "binary_search": 12,
-    "boundaries": 1,
+    "academics": 15,
+    "bca": 6,
     "certificate": 1,
-    "clippings": 1,
     "degree": 1,
-    "divide-and-conquer": 1,
-    "divisors": 1,
-    "dsa": 2,
-    "easy": 3,
-    "excalidraw": 10,
-    "flattening": 1,
-    "frequency_property": 1,
     "government": 1,
     "govt": 1,
-    "greedy": 1,
-    "hard": 2,
     "id": 2,
-    "math": 1,
-    "matrix": 2,
     "mca": 6,
-    "median": 1,
-    "medium": 10,
-    "merge-sort": 1,
-    "min_value": 1,
-    "missing_number": 1,
-    "monotonic_condition": 2,
-    "monotonic_function": 2,
-    "observation": 1,
-    "partition_logic": 1,
     "pdc": 1,
-    "peak_element": 1,
-    "result": 13,
+    "result": 12,
     "resume": 1,
-    "rotated_array": 2,
-    "school": 3,
-    "search_insert": 1,
-    "search_on_answer": 4,
-    "searching": 3,
-    "semester1": 1,
-    "sign_flip": 1,
-    "slope_logic": 1,
-    "sorted_array": 3,
-    "sorting": 2,
-    "sqrt_optimization": 1,
-    "two_pointers": 1
+    "school": 3
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
-    "A Short History of Nearly Everything - Bill Bryson.md",
-    "Anyone unlocked admin access on Nokia G-0425G-B (Wordlink locked firmware).md",
-    "Atomic Habits - James Clear.md",
-    "Atomic Habits Summary (by James Clear) - James Clear.md",
-    "Authentic Happiness - Martin Seligman.md",
-    "Blade Runner - Julian Wangler.md",
-    "Capacity to Ship Packages Within D Days.md",
-    "Chapterhouse Dune - Frank Herbert.md",
-    "Children of Dune - Frank Herbert.md",
-    "Deep Work - Cal Newport.md",
-    "Drawing 2024-12-18 14.05.32.excalidraw.md",
-    "Drawing 2024-12-23 21.49.06.excalidraw.md",
-    "Drawing 2024-12-24 16.52.34.excalidraw.md",
-    "Drawing 2025-11-27 01.16.18.excalidraw.md",
-    "Drawing 2025-12-04 14.10.32.excalidraw.md",
-    "Dune - Frank Herbert.md",
-    "Dune Messiah - Frank Herbert.md",
-    "Find First and Last Position of Element in Sorted Array.md",
-    "Find Minimum in Rotated Sorted Array.md",
-    "Find Peak Element.md",
-    "Find the Smallest Divisor Given a Threshold.md",
-    "Four Divisors.md",
-    "God Emperor of Dune - Frank Herbert.md",
-    "H-Index.md",
-    "Heretics of Dune - Frank Herbert.md",
-    "Insert Interval.md",
-    "Isaac Asimov - Schöpfer der Foundation - Hardy Kettlitz.md",
-    "Koko Eating Bananas.md",
-    "Kth Largest Element.md",
-    "Kth Missing Positive Number.md",
-    "Largest Number.md",
-    "MOC - SORTING.md",
-    "Majority Element.md",
-    "Median of Two Sorted Arrays.md",
     "Meditations - Marcus Aurelius.md",
-    "Meditations [of] Marcus Aurelius - Marcus Aurelius (Emperor of Rome).md",
-    "Medium ARRAY.excalidraw.md",
-    "Meeting Rooms II.md",
-    "Meeting Rooms.md",
-    "Merge 2 Sorted Arrays.md",
-    "N-Repeated Element in Size 2N Array.md",
-    "Relative Sort Array 1.md",
-    "Relative Sort Array.md",
-    "Reorder Data in Log Files.md",
-    "Sapiens - Yuval Noah Harari.md",
-    "Search Insert Position.md",
-    "Search in Rotated Sorted Array.md",
-    "Single Number.md",
-    "Six Pillars of Self-Esteem - Nathaniel Branden.md",
-    "Sort Characters By Frequency.md",
-    "Sort Colors.md",
-    "Sort an Array.md",
-    "The 4-Hour Work Week - Timothy Ferriss.md",
-    "The 48 Laws Of Power - Robert Greene.md",
-    "The Art of War - Sun Tzu.md",
-    "The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
-    "The Madness of Crowds - Douglas Murray.md",
-    "Thinking Fast and Slow - Daniel Kahneman.md",
-    "Top K Frequent Elements.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 4.md",
     "Untitled.md",
-    "Untitled.md",
-    "Vagabonding - Rolf Potts.md",
     "addhar_card.md",
-    "admin_starting_ui.excalidraw.md",
-    "author_starting_ui.excalidraw.md",
     "bca_sem_1.md",
     "bca_sem_2.md",
     "bca_sem_3.md",
@@ -269,160 +64,133 @@
     "bca_sem_5.md",
     "bca_sem_6.md",
     "mca_sem_1.md",
-    "mca_sem_1.md",
     "mca_sem_2.md",
     "mca_sem_3.md",
     "mca_sem_4.md",
-    "merge-sort.md",
     "meta.md",
     "meta.md",
     "meta.md",
     "parul_pdc.md",
-    "parul_resume.md",
-    "searching-master-sheet.md",
-    "sorting.md",
-    "understand_workflow.excalidraw.md",
-    "user_starter_ui.excalidraw.md"
+    "parul_resume.md"
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
     {
-      "title": "Untitled 2",
-      "filename": "Untitled 2.md",
+      "title": "addhar_card",
+      "filename": "addhar_card.md",
       "note_type": "",
       "tags": [
-        "binary_search",
-        "matrix",
-        "flattening",
-        "searching",
-        "array",
-        "medium"
+        "id",
+        "aadhaar",
+        "govt"
       ],
       "photos": [],
-      "modified_at": "2026-01-05T18:53:05Z"
-    },
-    {
-      "title": "Untitled 1",
-      "filename": "Untitled 1.md",
-      "note_type": "",
-      "tags": [
-        "greedy",
-        "matrix",
-        "absolute_value",
-        "sign_flip",
-        "array",
-        "medium"
-      ],
-      "photos": [],
-      "modified_at": "2026-01-05T18:11:01Z"
-    },
-    {
-      "title": "Median of Two Sorted Arrays",
-      "filename": "Median of Two Sorted Arrays.md",
-      "note_type": "",
-      "tags": [
-        "binary_search",
-        "partition_logic",
-        "median",
-        "sorted_array",
-        "hard"
-      ],
-      "photos": [],
-      "modified_at": "2026-01-04T20:07:11Z"
-    },
-    {
-      "title": "Four Divisors",
-      "filename": "Four Divisors.md",
-      "note_type": "",
-      "tags": [
-        "math",
-        "divisors",
-        "sqrt_optimization",
-        "array",
-        "medium"
-      ],
-      "photos": [],
-      "modified_at": "2026-01-04T18:24:47Z"
+      "modified_at": "2025-11-29T16:23:51Z"
     },
     {
       "title": "Untitled",
       "filename": "Untitled.md",
       "note_type": "",
-      "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_condition",
-        "array",
-        "hard"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2026-01-03T17:48:01Z"
+      "modified_at": "2025-11-29T16:21:16Z"
     },
     {
-      "title": "searching-master-sheet",
-      "filename": "searching-master-sheet.md",
+      "title": "bca_sem_1",
+      "filename": "bca_sem_1.md",
       "note_type": "",
       "tags": [
-        "searching",
-        "dsa"
+        "bca",
+        "result",
+        "academics"
       ],
       "photos": [],
-      "modified_at": "2026-01-02T20:08:38Z"
+      "modified_at": "2025-11-29T16:18:35Z"
     },
     {
-      "title": "Kth Missing Positive Number",
-      "filename": "Kth Missing Positive Number.md",
+      "title": "12_leave",
+      "filename": "12_leave.md",
       "note_type": "",
       "tags": [
-        "binary_search",
-        "missing_number",
-        "array",
-        "searching",
-        "easy"
+        "academics",
+        "school",
+        "certificate"
       ],
       "photos": [],
-      "modified_at": "2026-01-02T20:05:46Z"
+      "modified_at": "2025-11-29T16:16:46Z"
     },
     {
-      "title": "N-Repeated Element in Size 2N Array",
-      "filename": "N-Repeated Element in Size 2N Array.md",
+      "title": "12_result",
+      "filename": "12_result.md",
       "note_type": "",
       "tags": [
-        "array",
-        "observation",
-        "frequency_property",
-        "easy"
+        "result",
+        "academics",
+        "school"
       ],
       "photos": [],
-      "modified_at": "2026-01-02T16:31:14Z"
+      "modified_at": "2025-11-29T16:15:31Z"
     },
     {
-      "title": "Find the Smallest Divisor Given a Threshold",
-      "filename": "Find the Smallest Divisor Given a Threshold.md",
+      "title": "10_result",
+      "filename": "10_result.md",
       "note_type": "",
       "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_condition",
-        "array",
-        "medium"
+        "result",
+        "academics",
+        "school"
       ],
       "photos": [],
-      "modified_at": "2026-01-01T17:47:21Z"
+      "modified_at": "2025-11-29T16:07:41Z"
     },
     {
-      "title": "Capacity to Ship Packages Within D Days",
-      "filename": "Capacity to Ship Packages Within D Days.md",
+      "title": "parul_resume",
+      "filename": "parul_resume.md",
       "note_type": "",
       "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_function",
-        "array",
-        "medium"
+        "resume",
+        "academics",
+        "mca"
       ],
       "photos": [],
-      "modified_at": "2025-12-30T17:42:06Z"
+      "modified_at": "2025-11-29T16:06:26Z"
+    },
+    {
+      "title": "parul_pdc",
+      "filename": "parul_pdc.md",
+      "note_type": "",
+      "tags": [
+        "degree",
+        "pdc",
+        "academics",
+        "mca"
+      ],
+      "photos": [],
+      "modified_at": "2025-11-29T16:05:32Z"
+    },
+    {
+      "title": "mca_sem_2",
+      "filename": "mca_sem_2.md",
+      "note_type": "",
+      "tags": [
+        "result",
+        "academics",
+        "mca"
+      ],
+      "photos": [],
+      "modified_at": "2025-11-29T16:04:21Z"
+    },
+    {
+      "title": "mca_sem_3",
+      "filename": "mca_sem_3.md",
+      "note_type": "",
+      "tags": [
+        "result",
+        "academics",
+        "mca"
+      ],
+      "photos": [],
+      "modified_at": "2025-11-29T16:04:18Z"
     }
   ],
   "notes": [
@@ -478,19 +246,6 @@
       "source": "manual"
     },
     {
-      "title": "A Short History of Nearly Everything",
-      "filename": "A Short History of Nearly Everything - Bill Bryson.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:09:00Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
       "title": "addhar_card",
       "filename": "addhar_card.md",
       "tags": [
@@ -504,90 +259,6 @@
       "para_suggestion": "",
       "created_date": "",
       "modified_at": "2025-11-29T16:23:51Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "admin_starting_ui.excalidraw",
-      "filename": "admin_starting_ui.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-01T18:32:38Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Anyone unlocked admin access on Nokia G-0425G-B (Wordlink locked firmware)?",
-      "filename": "Anyone unlocked admin access on Nokia G-0425G-B (Wordlink locked firmware).md",
-      "tags": [
-        "clippings"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-30T07:50:39Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Atomic Habits",
-      "filename": "Atomic Habits - James Clear.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:08:47Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Atomic Habits Summary (by James Clear)",
-      "filename": "Atomic Habits Summary (by James Clear) - James Clear.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-11-29T12:31:34Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Authentic Happiness",
-      "filename": "Authentic Happiness - Martin Seligman.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:11:06Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "author_starting_ui.excalidraw",
-      "filename": "author_starting_ui.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-01T18:20:24Z",
       "status": "",
       "source": "manual"
     },
@@ -694,458 +365,6 @@
       "source": "manual"
     },
     {
-      "title": "Blade Runner",
-      "filename": "Blade Runner - Julian Wangler.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T09:16:54Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Capacity to Ship Packages Within D Days",
-      "filename": "Capacity to Ship Packages Within D Days.md",
-      "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_function",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-30T17:42:06Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
-      "title": "Chapterhouse: Dune",
-      "filename": "Chapterhouse Dune - Frank Herbert.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T09:14:19Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Children of Dune",
-      "filename": "Children of Dune - Frank Herbert.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T09:13:48Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Deep Work",
-      "filename": "Deep Work - Cal Newport.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T07:45:20Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Drawing 2024-12-18 14.05.32.excalidraw",
-      "filename": "Drawing 2024-12-18 14.05.32.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2024-12-18T08:52:04Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Drawing 2024-12-23 21.49.06.excalidraw",
-      "filename": "Drawing 2024-12-23 21.49.06.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2024-12-24T18:14:17Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Drawing 2024-12-24 16.52.34.excalidraw",
-      "filename": "Drawing 2024-12-24 16.52.34.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2024-12-29T09:56:19Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Drawing 2025-11-27 01.16.18.excalidraw",
-      "filename": "Drawing 2025-11-27 01.16.18.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-11-26T19:57:38Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Drawing 2025-12-04 14.10.32.excalidraw",
-      "filename": "Drawing 2025-12-04 14.10.32.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T09:00:58Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Dune",
-      "filename": "Dune - Frank Herbert.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T07:57:45Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Dune Messiah",
-      "filename": "Dune Messiah - Frank Herbert.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:04:33Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Find First and Last Position of Element in Sorted Array",
-      "filename": "Find First and Last Position of Element in Sorted Array.md",
-      "tags": [
-        "binary_search",
-        "two_pointers",
-        "sorted_array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-03T21:12:53Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
-      "title": "Find Minimum in Rotated Sorted Array",
-      "filename": "Find Minimum in Rotated Sorted Array.md",
-      "tags": [
-        "binary_search",
-        "rotated_array",
-        "min_value",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-08T21:18:46Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Find Peak Element",
-      "filename": "Find Peak Element.md",
-      "tags": [
-        "binary_search",
-        "peak_element",
-        "slope_logic",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-09T22:07:08Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
-      "title": "Find the Smallest Divisor Given a Threshold",
-      "filename": "Find the Smallest Divisor Given a Threshold.md",
-      "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_condition",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-01T17:47:21Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
-      "title": "Four Divisors",
-      "filename": "Four Divisors.md",
-      "tags": [
-        "math",
-        "divisors",
-        "sqrt_optimization",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-04T18:24:47Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
-      "title": "God Emperor of Dune",
-      "filename": "God Emperor of Dune - Frank Herbert.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T09:13:55Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "H-Index",
-      "filename": "H-Index.md",
-      "tags": [
-        "#bucket_sort",
-        "#frequency_count",
-        "#counting_sort",
-        "#array",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:18:38Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Heretics of Dune",
-      "filename": "Heretics of Dune - Frank Herbert.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T09:14:09Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Insert Interval",
-      "filename": "Insert Interval.md",
-      "tags": [
-        "#interval_merge",
-        "#array",
-        "#greedy",
-        "#sorting",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:20:09Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Isaac Asimov - Schöpfer der Foundation",
-      "filename": "Isaac Asimov - Schöpfer der Foundation - Hardy Kettlitz.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T09:17:54Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Koko Eating Bananas",
-      "filename": "Koko Eating Bananas.md",
-      "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_function",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-30T08:05:53Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
-      "title": "Kth Largest Element",
-      "filename": "Kth Largest Element.md",
-      "tags": [
-        "#counting_sort",
-        "#frequency_bucket",
-        "#array",
-        "#kth_largest",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:20:14Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Kth Missing Positive Number",
-      "filename": "Kth Missing Positive Number.md",
-      "tags": [
-        "binary_search",
-        "missing_number",
-        "array",
-        "searching",
-        "easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-02T20:05:46Z",
-      "status": "🟢",
-      "source": "manual"
-    },
-    {
-      "title": "Largest Number",
-      "filename": "Largest Number.md",
-      "tags": [
-        "#custom_sort",
-        "#string_comparator",
-        "#greedy",
-        "#sorting",
-        "#array",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:20:18Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Majority Element",
-      "filename": "Majority Element.md",
-      "tags": [
-        "#boyer_moore",
-        "#greedy",
-        "#array",
-        "#frequency_count",
-        "#easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:23:43Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "MCA SEM 1",
-      "filename": "mca_sem_1.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-11-29T13:22:58Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
       "title": "mca_sem_1",
       "filename": "mca_sem_1.md",
       "tags": [
@@ -1214,25 +433,6 @@
       "source": "manual"
     },
     {
-      "title": "Median of Two Sorted Arrays",
-      "filename": "Median of Two Sorted Arrays.md",
-      "tags": [
-        "binary_search",
-        "partition_logic",
-        "median",
-        "sorted_array",
-        "hard"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-04T20:07:11Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
       "title": "Meditations",
       "filename": "Meditations - Marcus Aurelius.md",
       "tags": [],
@@ -1242,107 +442,6 @@
       "para_suggestion": "",
       "created_date": "",
       "modified_at": "2025-11-29T12:46:16Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Meditations [of] Marcus Aurelius",
-      "filename": "Meditations [of] Marcus Aurelius - Marcus Aurelius (Emperor of Rome).md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:08:14Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Medium ARRAY.excalidraw",
-      "filename": "Medium ARRAY.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2024-12-30T12:30:07Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Meeting Rooms II",
-      "filename": "Meeting Rooms II.md",
-      "tags": [
-        "#two_pointers",
-        "#sorting",
-        "#intervals",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:23:52Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Meeting Rooms",
-      "filename": "Meeting Rooms.md",
-      "tags": [
-        "#sorting",
-        "#interval_overlap",
-        "#array",
-        "#easy",
-        "#greedy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:23:47Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Merge 2 Sorted Arrays",
-      "filename": "Merge 2 Sorted Arrays.md",
-      "tags": [
-        "#two_pointer",
-        "#array",
-        "#inplace_merge",
-        "#sorted_arrays",
-        "#easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:23:57Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Merge Sort",
-      "filename": "merge-sort.md",
-      "tags": [
-        "sorting",
-        "divide-and-conquer",
-        "merge-sort"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:17:57Z",
       "status": "",
       "source": "manual"
     },
@@ -1389,37 +488,6 @@
       "source": "manual"
     },
     {
-      "title": "MOC - SORTING",
-      "filename": "MOC - SORTING.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:25:19Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "N-Repeated Element in Size 2N Array",
-      "filename": "N-Repeated Element in Size 2N Array.md",
-      "tags": [
-        "array",
-        "observation",
-        "frequency_property",
-        "easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-02T16:31:14Z",
-      "status": "🟢",
-      "source": "manual"
-    },
-    {
       "title": "parul_pdc",
       "filename": "parul_pdc.md",
       "tags": [
@@ -1455,427 +523,6 @@
       "source": "manual"
     },
     {
-      "title": "Relative Sort Array 1",
-      "filename": "Relative Sort Array 1.md",
-      "tags": [
-        "#hashmap",
-        "#frequency_count",
-        "#custom_sorting",
-        "#array",
-        "#easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:23:21Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Relative Sort Array",
-      "filename": "Relative Sort Array.md",
-      "tags": [
-        "#custom_sort",
-        "#hashmap",
-        "#frequency_count",
-        "#easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:23:16Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Reorder Data in Log Files",
-      "filename": "Reorder Data in Log Files.md",
-      "tags": [
-        "#custom_sort",
-        "#string",
-        "#sorting",
-        "#two_arrays",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:24:07Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Sapiens",
-      "filename": "Sapiens - Yuval Noah Harari.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:08:52Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Search in Rotated Sorted Array",
-      "filename": "Search in Rotated Sorted Array.md",
-      "tags": [
-        "binary_search",
-        "rotated_array",
-        "boundaries",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-08T20:46:10Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Search Insert Position",
-      "filename": "Search Insert Position.md",
-      "tags": [
-        "binary_search",
-        "sorted_array",
-        "search_insert",
-        "array",
-        "easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-05T20:16:58Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "searching-master-sheet",
-      "filename": "searching-master-sheet.md",
-      "tags": [
-        "searching",
-        "dsa"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-02T20:08:38Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Single Number",
-      "filename": "Single Number.md",
-      "tags": [
-        "#xor",
-        "#bit_manipulation",
-        "#array",
-        "#constant_space",
-        "#easy"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:24:14Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Six Pillars of Self-Esteem",
-      "filename": "Six Pillars of Self-Esteem - Nathaniel Branden.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:06:39Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Sort an Array",
-      "filename": "Sort an Array.md",
-      "tags": [
-        "#merge_sort",
-        "#divide_and_conquer",
-        "#sorting",
-        "#array",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:17:46Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Sort Characters By Frequency",
-      "filename": "Sort Characters By Frequency.md",
-      "tags": [
-        "#hashmap",
-        "#bucket_sort",
-        "#frequency",
-        "#string",
-        "#sorting",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:24:22Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Sort Colors",
-      "filename": "Sort Colors.md",
-      "tags": [
-        "#two_pointers",
-        "#dutch_flag",
-        "#sorting",
-        "#array",
-        "#inplace",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:24:27Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "sorting",
-      "filename": "sorting.md",
-      "tags": [
-        "sorting",
-        "algorithms",
-        "dsa"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:24:36Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "The 4-Hour Work Week",
-      "filename": "The 4-Hour Work Week - Timothy Ferriss.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:09:18Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "The 48 Laws Of Power",
-      "filename": "The 48 Laws Of Power - Robert Greene.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:06:17Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "The Art of War",
-      "filename": "The Art of War - Sun Tzu.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:11:35Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "The Courage To Be Disliked",
-      "filename": "The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:07:26Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "The Madness of Crowds",
-      "filename": "The Madness of Crowds - Douglas Murray.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:08:40Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Thinking, Fast and Slow",
-      "filename": "Thinking Fast and Slow - Daniel Kahneman.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:07:06Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Top K Frequent Elements",
-      "filename": "Top K Frequent Elements.md",
-      "tags": [
-        "#hashmap",
-        "#bucket_sort",
-        "#frequency",
-        "#array",
-        "#sorting",
-        "#medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-04T17:24:32Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "understand_workflow.excalidraw",
-      "filename": "understand_workflow.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-01T17:48:59Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Untitled 1",
-      "filename": "Untitled 1.md",
-      "tags": [
-        "greedy",
-        "matrix",
-        "absolute_value",
-        "sign_flip",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-05T18:11:01Z",
-      "status": "🟢",
-      "source": "manual"
-    },
-    {
-      "title": "Untitled 2",
-      "filename": "Untitled 2.md",
-      "tags": [
-        "binary_search",
-        "matrix",
-        "flattening",
-        "searching",
-        "array",
-        "medium"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-05T18:53:05Z",
-      "status": "🟢",
-      "source": "manual"
-    },
-    {
-      "title": "Untitled 4",
-      "filename": "Untitled 4.md",
-      "tags": [
-        "bca",
-        "result",
-        "semester1",
-        "academics"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-11-29T15:56:00Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Untitled",
-      "filename": "Untitled.md",
-      "tags": [
-        "binary_search",
-        "search_on_answer",
-        "monotonic_condition",
-        "array",
-        "hard"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2026-01-03T17:48:01Z",
-      "status": "🟡",
-      "source": "manual"
-    },
-    {
       "title": "Untitled",
       "filename": "Untitled.md",
       "tags": [],
@@ -1885,34 +532,6 @@
       "para_suggestion": "",
       "created_date": "",
       "modified_at": "2025-11-29T16:21:16Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "user_starter_ui.excalidraw",
-      "filename": "user_starter_ui.excalidraw.md",
-      "tags": [
-        "excalidraw"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-12-01T18:14:24Z",
-      "status": "",
-      "source": "manual"
-    },
-    {
-      "title": "Vagabonding",
-      "filename": "Vagabonding - Rolf Potts.md",
-      "tags": [],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "",
-      "para_suggestion": "",
-      "created_date": "",
-      "modified_at": "2025-09-01T08:09:11Z",
       "status": "",
       "source": "manual"
     }
