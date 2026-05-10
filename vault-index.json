@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T16:08:25Z",
-  "last_full_reindex": "2026-05-10T16:08:25Z",
-  "total_notes": 40,
+  "last_updated": "2026-05-10T16:12:12Z",
+  "last_full_reindex": "2026-05-10T16:12:12Z",
+  "total_notes": 41,
   "note_type_counts": {
-    "idea": 2,
+    "idea": 3,
     "reference": 2,
     "task": 0,
     "log": 0,
@@ -15,7 +15,7 @@
   "para_folder_counts": {
     "00_Inbox": 1,
     "10_Projects": 0,
-    "20_Areas": 3,
+    "20_Areas": 4,
     "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
@@ -49,9 +49,9 @@
     "bca": 6,
     "certificate": 1,
     "cnc": 2,
-    "deep-work": 1,
+    "deep-work": 2,
     "degree": 1,
-    "focus": 2,
+    "focus": 3,
     "gcode": 2,
     "government": 1,
     "govt": 1,
@@ -60,7 +60,7 @@
     "mca": 6,
     "mcode": 2,
     "pdc": 1,
-    "productivity": 2,
+    "productivity": 3,
     "result": 12,
     "resume": 1,
     "routine": 1,
@@ -74,6 +74,7 @@
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Deep_Work_Session_Planning_Strategies.md",
+    "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
     "Emojify.md",
     "Explain like I am 5.md",
     "Fix grammar and spelling.md",
@@ -133,6 +134,18 @@
   "last_10_notes": [
     {
       "title": "Deep Work Session Planning Strategies",
+      "filename": "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
+      "note_type": "idea",
+      "tags": [
+        "deep-work",
+        "productivity",
+        "focus"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-10T16:12:12Z"
+    },
+    {
+      "title": "Deep Work Session Planning Strategies",
       "filename": "Deep_Work_Session_Planning_Strategies.md",
       "note_type": "idea",
       "tags": [
@@ -140,10 +153,8 @@
         "productivity",
         "focus"
       ],
-      "photos": [
-        "00_Inbox/_Attachments/Deep_Work_Session_Planning_Strategies_photo_0_20260510T160823.jpg"
-      ],
-      "modified_at": "2026-05-10T16:08:25Z"
+      "photos": [],
+      "modified_at": "2026-05-10T16:08:51Z"
     },
     {
       "title": "Morning Focus Routine",
@@ -220,14 +231,6 @@
     {
       "title": "Rewrite as tweet",
       "filename": "Rewrite as tweet.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
-    },
-    {
-      "title": "Rewrite as tweet thread",
-      "filename": "Rewrite as tweet thread.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -455,6 +458,23 @@
     },
     {
       "title": "Deep Work Session Planning Strategies",
+      "filename": "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
+      "tags": [
+        "deep-work",
+        "productivity",
+        "focus"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "idea",
+      "para_suggestion": "20_Areas/10_Personal",
+      "created_date": "2026-05-10",
+      "modified_at": "2026-05-10T16:12:12Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "Deep Work Session Planning Strategies",
       "filename": "Deep_Work_Session_Planning_Strategies.md",
       "tags": [
         "deep-work",
@@ -465,13 +485,11 @@
         "idea",
         "data"
       ],
-      "photos": [
-        "00_Inbox/_Attachments/Deep_Work_Session_Planning_Strategies_photo_0_20260510T160823.jpg"
-      ],
+      "photos": [],
       "note_type": "idea",
       "para_suggestion": "20_Areas/10_Personal",
-      "created_date": "2026-05-10",
-      "modified_at": "2026-05-10T16:08:25Z",
+      "created_date": "Sun May 10 2026 05:30:00 GMT+0530 (India Standard Time)",
+      "modified_at": "2026-05-10T16:08:51Z",
       "status": "inbox",
       "source": "webapp"
     },
