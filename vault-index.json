@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-10T05:22:13Z",
-  "last_full_reindex": "2026-05-10T05:22:13Z",
-  "total_notes": 21,
+  "last_updated": "2026-05-10T06:03:26Z",
+  "last_full_reindex": "2026-05-10T06:03:26Z",
+  "total_notes": 37,
   "note_type_counts": {
     "idea": 0,
-    "reference": 0,
+    "reference": 1,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -15,7 +15,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 0,
+    "20_Areas": 1,
     "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
@@ -37,7 +37,7 @@
   ],
   "tag_frequency": {
     "aadhaar": 1,
-    "academics": 15,
+    "academics": 16,
     "bca": 6,
     "certificate": 1,
     "degree": 1,
@@ -54,7 +54,23 @@
     "10_result.md",
     "12_leave.md",
     "12_result.md",
+    "Clip Web Page.md",
+    "Clip YouTube Transcript.md",
+    "Cnc_Programming_Gcode_And_Mcode_Reference.md",
+    "Emojify.md",
+    "Explain like I am 5.md",
+    "Fix grammar and spelling.md",
+    "Generate glossary.md",
+    "Generate table of contents.md",
+    "Make longer.md",
+    "Make shorter.md",
     "Meditations - Marcus Aurelius.md",
+    "Remove URLs.md",
+    "Rewrite as tweet thread.md",
+    "Rewrite as tweet.md",
+    "Simplify.md",
+    "Summarize.md",
+    "Translate to Chinese.md",
     "Untitled.md",
     "addhar_card.md",
     "bca_sem_1.md",
@@ -76,121 +92,86 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
-      "title": "addhar_card",
-      "filename": "addhar_card.md",
-      "note_type": "",
+      "title": "CNC_Programming_GCode_And_MCode_Reference",
+      "filename": "Cnc_Programming_Gcode_And_Mcode_Reference.md",
+      "note_type": "reference",
       "tags": [
-        "id",
-        "aadhaar",
-        "govt"
-      ],
-      "photos": [],
-      "modified_at": "2025-11-29T16:23:51Z"
-    },
-    {
-      "title": "Untitled",
-      "filename": "Untitled.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2025-11-29T16:21:16Z"
-    },
-    {
-      "title": "bca_sem_1",
-      "filename": "bca_sem_1.md",
-      "note_type": "",
-      "tags": [
-        "bca",
-        "result",
         "academics"
       ],
       "photos": [],
-      "modified_at": "2025-11-29T16:18:35Z"
+      "modified_at": "2026-05-10T06:03:26Z"
     },
     {
-      "title": "12_leave",
-      "filename": "12_leave.md",
+      "title": "Clip Web Page",
+      "filename": "Clip Web Page.md",
       "note_type": "",
-      "tags": [
-        "academics",
-        "school",
-        "certificate"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:16:46Z"
+      "modified_at": "2026-05-10T05:26:45Z"
     },
     {
-      "title": "12_result",
-      "filename": "12_result.md",
+      "title": "Translate to Chinese",
+      "filename": "Translate to Chinese.md",
       "note_type": "",
-      "tags": [
-        "result",
-        "academics",
-        "school"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:15:31Z"
+      "modified_at": "2026-05-10T05:26:44Z"
     },
     {
-      "title": "10_result",
-      "filename": "10_result.md",
+      "title": "Summarize",
+      "filename": "Summarize.md",
       "note_type": "",
-      "tags": [
-        "result",
-        "academics",
-        "school"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:07:41Z"
+      "modified_at": "2026-05-10T05:26:44Z"
     },
     {
-      "title": "parul_resume",
-      "filename": "parul_resume.md",
+      "title": "Simplify",
+      "filename": "Simplify.md",
       "note_type": "",
-      "tags": [
-        "resume",
-        "academics",
-        "mca"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:06:26Z"
+      "modified_at": "2026-05-10T05:26:44Z"
     },
     {
-      "title": "parul_pdc",
-      "filename": "parul_pdc.md",
+      "title": "Rewrite as tweet",
+      "filename": "Rewrite as tweet.md",
       "note_type": "",
-      "tags": [
-        "degree",
-        "pdc",
-        "academics",
-        "mca"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:05:32Z"
+      "modified_at": "2026-05-10T05:26:44Z"
     },
     {
-      "title": "mca_sem_2",
-      "filename": "mca_sem_2.md",
+      "title": "Rewrite as tweet thread",
+      "filename": "Rewrite as tweet thread.md",
       "note_type": "",
-      "tags": [
-        "result",
-        "academics",
-        "mca"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:04:21Z"
+      "modified_at": "2026-05-10T05:26:44Z"
     },
     {
-      "title": "mca_sem_3",
-      "filename": "mca_sem_3.md",
+      "title": "Remove URLs",
+      "filename": "Remove URLs.md",
       "note_type": "",
-      "tags": [
-        "result",
-        "academics",
-        "mca"
-      ],
+      "tags": [],
       "photos": [],
-      "modified_at": "2025-11-29T16:04:18Z"
+      "modified_at": "2026-05-10T05:26:44Z"
+    },
+    {
+      "title": "Make shorter",
+      "filename": "Make shorter.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-10T05:26:44Z"
+    },
+    {
+      "title": "Make longer",
+      "filename": "Make longer.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-10T05:26:44Z"
     }
   ],
   "notes": [
@@ -365,6 +346,138 @@
       "source": "manual"
     },
     {
+      "title": "Clip Web Page",
+      "filename": "Clip Web Page.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:45Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Clip YouTube Transcript",
+      "filename": "Clip YouTube Transcript.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "CNC_Programming_GCode_And_MCode_Reference",
+      "filename": "Cnc_Programming_Gcode_And_Mcode_Reference.md",
+      "tags": [
+        "academics"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "2026-05-10T14:30:00",
+      "modified_at": "2026-05-10T06:03:26Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "Emojify",
+      "filename": "Emojify.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Explain like I am 5",
+      "filename": "Explain like I am 5.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Fix grammar and spelling",
+      "filename": "Fix grammar and spelling.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Generate glossary",
+      "filename": "Generate glossary.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Generate table of contents",
+      "filename": "Generate table of contents.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Make longer",
+      "filename": "Make longer.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Make shorter",
+      "filename": "Make shorter.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
       "title": "mca_sem_1",
       "filename": "mca_sem_1.md",
       "tags": [
@@ -519,6 +632,84 @@
       "para_suggestion": "",
       "created_date": "",
       "modified_at": "2025-11-29T16:06:26Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Remove URLs",
+      "filename": "Remove URLs.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Rewrite as tweet thread",
+      "filename": "Rewrite as tweet thread.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Rewrite as tweet",
+      "filename": "Rewrite as tweet.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Simplify",
+      "filename": "Simplify.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Summarize",
+      "filename": "Summarize.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
+      "status": "",
+      "source": "manual"
+    },
+    {
+      "title": "Translate to Chinese",
+      "filename": "Translate to Chinese.md",
+      "tags": [],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "",
+      "para_suggestion": "",
+      "created_date": "",
+      "modified_at": "2026-05-10T05:26:44Z",
       "status": "",
       "source": "manual"
     },
