@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-10T06:03:26Z",
-  "last_full_reindex": "2026-05-10T06:03:26Z",
-  "total_notes": 37,
+  "last_updated": "2026-05-10T06:26:44Z",
+  "last_full_reindex": "2026-05-10T06:26:44Z",
+  "total_notes": 38,
   "note_type_counts": {
     "idea": 0,
-    "reference": 1,
+    "reference": 2,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -15,7 +15,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 1,
+    "20_Areas": 2,
     "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
@@ -25,11 +25,15 @@
     "academics",
     "bca",
     "certificate",
+    "cnc",
     "degree",
+    "gcode",
     "government",
     "govt",
     "id",
+    "manufacturing",
     "mca",
+    "mcode",
     "pdc",
     "result",
     "resume",
@@ -37,14 +41,18 @@
   ],
   "tag_frequency": {
     "aadhaar": 1,
-    "academics": 16,
+    "academics": 17,
     "bca": 6,
     "certificate": 1,
+    "cnc": 1,
     "degree": 1,
+    "gcode": 1,
     "government": 1,
     "govt": 1,
     "id": 2,
+    "manufacturing": 1,
     "mca": 6,
+    "mcode": 1,
     "pdc": 1,
     "result": 12,
     "resume": 1,
@@ -54,6 +62,7 @@
     "10_result.md",
     "12_leave.md",
     "12_result.md",
+    "Beginner_Friendly_Cnc_Programming_Gcode_And_Mcode_Notes.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Cnc_Programming_Gcode_And_Mcode_Reference.md",
@@ -92,6 +101,20 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "Beginner Friendly CNC Programming GCode And MCode Notes",
+      "filename": "Beginner_Friendly_Cnc_Programming_Gcode_And_Mcode_Notes.md",
+      "note_type": "reference",
+      "tags": [
+        "academics",
+        "cnc",
+        "gcode",
+        "mcode",
+        "manufacturing"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-10T06:26:44Z"
+    },
+    {
       "title": "CNC_Programming_GCode_And_MCode_Reference",
       "filename": "Cnc_Programming_Gcode_And_Mcode_Reference.md",
       "note_type": "reference",
@@ -99,7 +122,7 @@
         "academics"
       ],
       "photos": [],
-      "modified_at": "2026-05-10T06:03:26Z"
+      "modified_at": "2026-05-10T06:07:13Z"
     },
     {
       "title": "Clip Web Page",
@@ -160,14 +183,6 @@
     {
       "title": "Make shorter",
       "filename": "Make shorter.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
-    },
-    {
-      "title": "Make longer",
-      "filename": "Make longer.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -346,6 +361,25 @@
       "source": "manual"
     },
     {
+      "title": "Beginner Friendly CNC Programming GCode And MCode Notes",
+      "filename": "Beginner_Friendly_Cnc_Programming_Gcode_And_Mcode_Notes.md",
+      "tags": [
+        "academics",
+        "cnc",
+        "gcode",
+        "mcode",
+        "manufacturing"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas",
+      "created_date": "2026-05-10",
+      "modified_at": "2026-05-10T06:26:44Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
       "title": "Clip Web Page",
       "filename": "Clip Web Page.md",
       "tags": [],
@@ -382,7 +416,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "2026-05-10T14:30:00",
-      "modified_at": "2026-05-10T06:03:26Z",
+      "modified_at": "2026-05-10T06:07:13Z",
       "status": "inbox",
       "source": "webapp"
     },
