@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-10T16:12:12Z",
-  "last_full_reindex": "2026-05-10T16:12:12Z",
-  "total_notes": 41,
+  "last_updated": "2026-05-10T16:36:31Z",
+  "last_full_reindex": "2026-05-10T16:36:31Z",
+  "total_notes": 42,
   "note_type_counts": {
     "idea": 3,
-    "reference": 2,
+    "reference": 3,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -16,7 +16,7 @@
     "00_Inbox": 1,
     "10_Projects": 0,
     "20_Areas": 4,
-    "30_Resources": 0,
+    "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
   },
@@ -28,11 +28,14 @@
     "cnc",
     "deep-work",
     "degree",
+    "demo",
+    "example",
     "focus",
     "gcode",
     "government",
     "govt",
     "id",
+    "json",
     "manufacturing",
     "mca",
     "mcode",
@@ -51,11 +54,14 @@
     "cnc": 2,
     "deep-work": 2,
     "degree": 1,
+    "demo": 1,
+    "example": 1,
     "focus": 3,
     "gcode": 2,
     "government": 1,
     "govt": 1,
     "id": 2,
+    "json": 1,
     "manufacturing": 2,
     "mca": 6,
     "mcode": 2,
@@ -88,6 +94,7 @@
     "Remove URLs.md",
     "Rewrite as tweet thread.md",
     "Rewrite as tweet.md",
+    "Simple_Demo_Json_Structure.md",
     "Simplify.md",
     "Summarize.md",
     "Translate to Chinese.md",
@@ -132,6 +139,18 @@
     }
   ],
   "last_10_notes": [
+    {
+      "title": "Simple Demo JSON Structure",
+      "filename": "Simple_Demo_Json_Structure.md",
+      "note_type": "reference",
+      "tags": [
+        "demo",
+        "json",
+        "example"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-10T16:36:31Z"
+    },
     {
       "title": "Deep Work Session Planning Strategies",
       "filename": "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
@@ -223,14 +242,6 @@
     {
       "title": "Simplify",
       "filename": "Simplify.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
-    },
-    {
-      "title": "Rewrite as tweet",
-      "filename": "Rewrite as tweet.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -816,6 +827,23 @@
       "modified_at": "2026-05-10T05:26:44Z",
       "status": "",
       "source": "manual"
+    },
+    {
+      "title": "Simple Demo JSON Structure",
+      "filename": "Simple_Demo_Json_Structure.md",
+      "tags": [
+        "demo",
+        "json",
+        "example"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "30_Resources",
+      "created_date": "2026-05-10",
+      "modified_at": "2026-05-10T16:36:31Z",
+      "status": "inbox",
+      "source": "webapp"
     },
     {
       "title": "Simplify",
