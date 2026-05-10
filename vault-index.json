@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T06:33:38Z",
-  "last_full_reindex": "2026-05-10T06:33:38Z",
-  "total_notes": 38,
+  "last_updated": "2026-05-10T14:59:48Z",
+  "last_full_reindex": "2026-05-10T14:59:48Z",
+  "total_notes": 39,
   "note_type_counts": {
-    "idea": 0,
+    "idea": 1,
     "reference": 2,
     "task": 0,
     "log": 0,
@@ -13,7 +13,7 @@
     "code": 0
   },
   "para_folder_counts": {
-    "00_Inbox": 0,
+    "00_Inbox": 1,
     "10_Projects": 0,
     "20_Areas": 2,
     "30_Resources": 0,
@@ -27,6 +27,7 @@
     "certificate",
     "cnc",
     "degree",
+    "focus",
     "gcode",
     "government",
     "govt",
@@ -35,8 +36,10 @@
     "mca",
     "mcode",
     "pdc",
+    "productivity",
     "result",
     "resume",
+    "routine",
     "school"
   ],
   "tag_frequency": {
@@ -46,6 +49,7 @@
     "certificate": 1,
     "cnc": 2,
     "degree": 1,
+    "focus": 1,
     "gcode": 2,
     "government": 1,
     "govt": 1,
@@ -54,8 +58,10 @@
     "mca": 6,
     "mcode": 2,
     "pdc": 1,
+    "productivity": 1,
     "result": 12,
     "resume": 1,
+    "routine": 1,
     "school": 3
   },
   "orphan_notes": [
@@ -74,6 +80,7 @@
     "Make longer.md",
     "Make shorter.md",
     "Meditations - Marcus Aurelius.md",
+    "Morning_Focus_Routine.md",
     "Remove URLs.md",
     "Rewrite as tweet thread.md",
     "Rewrite as tweet.md",
@@ -111,6 +118,18 @@
     }
   ],
   "last_10_notes": [
+    {
+      "title": "Morning Focus Routine",
+      "filename": "Morning_Focus_Routine.md",
+      "note_type": "idea",
+      "tags": [
+        "productivity",
+        "focus",
+        "routine"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-10T14:59:48Z"
+    },
     {
       "title": "9 May CNC Turning Rough Programming Practice",
       "filename": "9_May_Cnc_Turning_Rough_Programming_Practice.md",
@@ -190,14 +209,6 @@
     {
       "title": "Remove URLs",
       "filename": "Remove URLs.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
-    },
-    {
-      "title": "Make shorter",
-      "filename": "Make shorter.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -655,6 +666,23 @@
       "modified_at": "2025-11-29T15:05:52Z",
       "status": "",
       "source": "manual"
+    },
+    {
+      "title": "Morning Focus Routine",
+      "filename": "Morning_Focus_Routine.md",
+      "tags": [
+        "productivity",
+        "focus",
+        "routine"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "idea",
+      "para_suggestion": "00_Inbox",
+      "created_date": "2026-05-10",
+      "modified_at": "2026-05-10T14:59:48Z",
+      "status": "inbox",
+      "source": "webapp"
     },
     {
       "title": "parul_pdc",
