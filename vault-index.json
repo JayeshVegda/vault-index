@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-10T16:36:31Z",
-  "last_full_reindex": "2026-05-10T16:36:31Z",
-  "total_notes": 42,
+  "last_updated": "2026-05-11T06:19:11Z",
+  "last_full_reindex": "2026-05-11T06:19:11Z",
+  "total_notes": 41,
   "note_type_counts": {
-    "idea": 3,
-    "reference": 3,
+    "idea": 2,
+    "reference": 2,
     "task": 0,
     "log": 0,
     "meeting": 0,
     "book": 0,
     "person": 0,
-    "code": 0
+    "code": 1
   },
   "para_folder_counts": {
-    "00_Inbox": 1,
+    "00_Inbox": 0,
     "10_Projects": 0,
     "20_Areas": 4,
     "30_Resources": 1,
@@ -23,19 +23,18 @@
   "tags": [
     "aadhaar",
     "academics",
+    "ai-tools",
     "bca",
     "certificate",
     "cnc",
+    "coding",
     "deep-work",
     "degree",
-    "demo",
-    "example",
     "focus",
     "gcode",
     "government",
     "govt",
     "id",
-    "json",
     "manufacturing",
     "mca",
     "mcode",
@@ -43,25 +42,23 @@
     "productivity",
     "result",
     "resume",
-    "routine",
     "school"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 17,
+    "ai-tools": 1,
     "bca": 6,
     "certificate": 1,
     "cnc": 2,
+    "coding": 1,
     "deep-work": 2,
     "degree": 1,
-    "demo": 1,
-    "example": 1,
-    "focus": 3,
+    "focus": 2,
     "gcode": 2,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "json": 1,
     "manufacturing": 2,
     "mca": 6,
     "mcode": 2,
@@ -69,7 +66,6 @@
     "productivity": 3,
     "result": 12,
     "resume": 1,
-    "routine": 1,
     "school": 3
   },
   "orphan_notes": [
@@ -79,6 +75,7 @@
     "9_May_Cnc_Turning_Rough_Programming_Practice.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
+    "Cursor_AI_Coding_Workflow.md",
     "Deep_Work_Session_Planning_Strategies.md",
     "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
     "Emojify.md",
@@ -90,11 +87,9 @@
     "Make longer.md",
     "Make shorter.md",
     "Meditations - Marcus Aurelius.md",
-    "Morning_Focus_Routine.md",
     "Remove URLs.md",
     "Rewrite as tweet thread.md",
     "Rewrite as tweet.md",
-    "Simple_Demo_Json_Structure.md",
     "Simplify.md",
     "Summarize.md",
     "Translate to Chinese.md",
@@ -140,16 +135,16 @@
   ],
   "last_10_notes": [
     {
-      "title": "Simple Demo JSON Structure",
-      "filename": "Simple_Demo_Json_Structure.md",
-      "note_type": "reference",
+      "title": "Cursor AI Coding Workflow",
+      "filename": "Cursor_AI_Coding_Workflow.md",
+      "note_type": "code",
       "tags": [
-        "demo",
-        "json",
-        "example"
+        "ai-tools",
+        "coding",
+        "productivity"
       ],
       "photos": [],
-      "modified_at": "2026-05-10T16:36:31Z"
+      "modified_at": "2026-05-11T06:19:11Z"
     },
     {
       "title": "Deep Work Session Planning Strategies",
@@ -174,18 +169,6 @@
       ],
       "photos": [],
       "modified_at": "2026-05-10T16:08:51Z"
-    },
-    {
-      "title": "Morning Focus Routine",
-      "filename": "Morning_Focus_Routine.md",
-      "note_type": "idea",
-      "tags": [
-        "productivity",
-        "focus",
-        "routine"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-10T15:00:14Z"
     },
     {
       "title": "9 May CNC Turning Rough Programming Practice",
@@ -242,6 +225,14 @@
     {
       "title": "Simplify",
       "filename": "Simplify.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-10T05:26:44Z"
+    },
+    {
+      "title": "Rewrite as tweet",
+      "filename": "Rewrite as tweet.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -466,6 +457,23 @@
       "modified_at": "2026-05-10T05:26:44Z",
       "status": "",
       "source": "manual"
+    },
+    {
+      "title": "Cursor AI Coding Workflow",
+      "filename": "Cursor_AI_Coding_Workflow.md",
+      "tags": [
+        "ai-tools",
+        "coding",
+        "productivity"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "code",
+      "para_suggestion": "30_Resources",
+      "created_date": "2026-05-11",
+      "modified_at": "2026-05-11T06:19:11Z",
+      "status": "inbox",
+      "source": "webapp"
     },
     {
       "title": "Deep Work Session Planning Strategies",
@@ -738,23 +746,6 @@
       "source": "manual"
     },
     {
-      "title": "Morning Focus Routine",
-      "filename": "Morning_Focus_Routine.md",
-      "tags": [
-        "productivity",
-        "focus",
-        "routine"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "idea",
-      "para_suggestion": "00_Inbox",
-      "created_date": "2026-05-10",
-      "modified_at": "2026-05-10T15:00:14Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
       "title": "parul_pdc",
       "filename": "parul_pdc.md",
       "tags": [
@@ -827,23 +818,6 @@
       "modified_at": "2026-05-10T05:26:44Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "Simple Demo JSON Structure",
-      "filename": "Simple_Demo_Json_Structure.md",
-      "tags": [
-        "demo",
-        "json",
-        "example"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "30_Resources",
-      "created_date": "2026-05-10",
-      "modified_at": "2026-05-10T16:36:31Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "Simplify",
