@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-13T18:17:43Z",
-  "last_full_reindex": "2026-05-13T18:17:43Z",
-  "total_notes": 41,
+  "last_updated": "2026-05-13T18:20:45Z",
+  "last_full_reindex": "2026-05-13T18:20:45Z",
+  "total_notes": 37,
   "note_type_counts": {
-    "idea": 1,
+    "idea": 0,
     "fleeting": 0,
-    "reference": 4,
+    "reference": 1,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -17,75 +17,55 @@
     "other": 0
   },
   "para_folder_counts": {
-    "00_Inbox": 1,
+    "00_Inbox": 0,
     "10_Projects": 0,
     "20_Areas": 1,
-    "30_Resources": 3,
+    "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
   },
   "tags": [
     "aadhaar",
     "academics",
-    "automation",
     "bca",
     "certificate",
     "cnc",
     "degree",
-    "demo",
     "gcode",
     "government",
     "govt",
     "id",
-    "knowledge-management",
     "manufacturing",
-    "markdown",
     "mca",
     "mcode",
-    "obsidian",
     "pdc",
-    "personal-knowledge-management",
     "result",
     "resume",
-    "school",
-    "tasker",
-    "vault-management"
+    "school"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 16,
-    "automation": 1,
     "bca": 6,
     "certificate": 1,
     "cnc": 1,
     "degree": 1,
-    "demo": 3,
     "gcode": 1,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "knowledge-management": 3,
     "manufacturing": 1,
-    "markdown": 3,
     "mca": 6,
     "mcode": 1,
-    "obsidian": 4,
     "pdc": 1,
-    "personal-knowledge-management": 3,
     "result": 12,
     "resume": 1,
-    "school": 3,
-    "tasker": 1,
-    "vault-management": 3
+    "school": 3
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
-    "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-    "13-May-26, Obsidian Vault Assistant Full Demo Structure_20260513T181601.md",
-    "13-May-26, Obsidian Vault Assistant Full Demo Structure_20260513T181743.md",
-    "13-May-26, Useful Idea About Tasker Capture.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -123,63 +103,6 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure_20260513T181743.md",
-      "note_type": "reference",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-13T18:17:43Z"
-    },
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure_20260513T181601.md",
-      "note_type": "reference",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-13T18:16:01Z"
-    },
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-      "note_type": "reference",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-13T18:15:54Z"
-    },
-    {
-      "title": "Useful Idea About Tasker Capture",
-      "filename": "13-May-26, Useful Idea About Tasker Capture.md",
-      "note_type": "idea",
-      "tags": [
-        "tasker",
-        "obsidian",
-        "automation"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-13T18:09:49Z"
-    },
     {
       "title": "Translate to Chinese",
       "filename": "Translate to Chinese.md",
@@ -223,6 +146,38 @@
     {
       "title": "Remove URLs",
       "filename": "Remove URLs.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Make shorter",
+      "filename": "Make shorter.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Make longer",
+      "filename": "Make longer.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Generate table of contents",
+      "filename": "Generate table of contents.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Generate glossary",
+      "filename": "Generate glossary.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -280,83 +235,6 @@
       "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure_20260513T181601.md",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "30_Resources",
-      "created_date": "2026-05-13T14:30:00",
-      "modified_at": "2026-05-13T18:16:01Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure_20260513T181743.md",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "30_Resources",
-      "created_date": "2026-05-13T14:30:00",
-      "modified_at": "2026-05-13T18:17:43Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "30_Resources",
-      "created_date": "2026-05-13T14:30:00",
-      "modified_at": "2026-05-13T18:15:54Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "Useful Idea About Tasker Capture",
-      "filename": "13-May-26, Useful Idea About Tasker Capture.md",
-      "tags": [
-        "tasker",
-        "obsidian",
-        "automation"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "idea",
-      "para_suggestion": "00_Inbox",
-      "created_date": "2026-05-13",
-      "modified_at": "2026-05-13T18:09:49Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "addhar_card",
