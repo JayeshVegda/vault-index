@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-11T12:33:58Z",
-  "last_full_reindex": "2026-05-11T12:33:58Z",
-  "total_notes": 42,
+  "last_updated": "2026-05-13T16:07:32Z",
+  "last_full_reindex": "2026-05-13T16:07:32Z",
+  "total_notes": 40,
   "note_type_counts": {
-    "idea": 2,
+    "idea": 0,
     "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
     "book": 0,
     "person": 0,
-    "code": 1,
+    "code": 0,
     "business": 0,
     "moc": 0,
     "other": 0
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 5,
+    "20_Areas": 3,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -27,78 +27,78 @@
   "tags": [
     "aadhaar",
     "academics",
-    "ai-tools",
     "bca",
     "certificate",
     "cnc",
     "cnc-programming",
     "cnc-turning",
-    "coding",
-    "deep-work",
     "degree",
-    "focus",
+    "demo",
     "gcode",
     "government",
     "govt",
     "id",
+    "knowledge-management",
     "lathe",
     "machining",
     "manufacturing",
+    "markdown",
     "mca",
     "mcode",
+    "obsidian",
     "pdc",
-    "productivity",
+    "personal-knowledge-management",
     "profile-machining",
     "result",
     "resume",
     "rough-turning",
     "school",
     "study-notes",
-    "tool-offset"
+    "tool-offset",
+    "vault-management"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 17,
-    "ai-tools": 1,
     "bca": 6,
     "certificate": 1,
     "cnc": 3,
     "cnc-programming": 1,
     "cnc-turning": 1,
-    "coding": 1,
-    "deep-work": 2,
     "degree": 1,
-    "focus": 2,
+    "demo": 1,
     "gcode": 3,
     "government": 1,
     "govt": 1,
     "id": 2,
+    "knowledge-management": 1,
     "lathe": 1,
     "machining": 1,
     "manufacturing": 3,
+    "markdown": 1,
     "mca": 6,
     "mcode": 3,
+    "obsidian": 1,
     "pdc": 1,
-    "productivity": 3,
+    "personal-knowledge-management": 1,
     "profile-machining": 1,
     "result": 12,
     "resume": 1,
     "rough-turning": 1,
     "school": 3,
     "study-notes": 1,
-    "tool-offset": 1
+    "tool-offset": 1,
+    "vault-management": 1
   },
   "orphan_notes": [
     "10_result.md",
     "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
     "12_leave.md",
     "12_result.md",
+    "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
     "9_May_Cnc_Turning_Rough_Programming_Practice.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
-    "Cursor_AI_Coding_Workflow.md",
-    "Deep_Work_Session_Planning_Strategies.md",
-    "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
     "Emojify.md",
     "Explain like I am 5.md",
     "Fix grammar and spelling.md",
@@ -142,19 +142,24 @@
       "title": "CNC_Programming_GCode_And_MCode_Reference",
       "filename": "",
       "link_count": 1
-    },
-    {
-      "title": "idea",
-      "filename": "",
-      "link_count": 1
-    },
-    {
-      "title": "data",
-      "filename": "",
-      "link_count": 1
     }
   ],
   "last_10_notes": [
+    {
+      "title": "Obsidian Vault Assistant Full Demo Structure",
+      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+      "note_type": "reference",
+      "tags": [
+        "obsidian",
+        "vault-management",
+        "knowledge-management",
+        "markdown",
+        "personal-knowledge-management",
+        "demo"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-13T16:07:32Z"
+    },
     {
       "title": "Complete CNC Turning Class Notes And Practical Programming Concepts",
       "filename": "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
@@ -174,43 +179,7 @@
         "profile-machining"
       ],
       "photos": [],
-      "modified_at": "2026-05-11T12:33:58Z"
-    },
-    {
-      "title": "Cursor AI Coding Workflow",
-      "filename": "Cursor_AI_Coding_Workflow.md",
-      "note_type": "code",
-      "tags": [
-        "ai-tools",
-        "coding",
-        "productivity"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-11T06:19:11Z"
-    },
-    {
-      "title": "Deep Work Session Planning Strategies",
-      "filename": "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
-      "note_type": "idea",
-      "tags": [
-        "deep-work",
-        "productivity",
-        "focus"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-10T16:12:12Z"
-    },
-    {
-      "title": "Deep Work Session Planning Strategies",
-      "filename": "Deep_Work_Session_Planning_Strategies.md",
-      "note_type": "idea",
-      "tags": [
-        "deep-work",
-        "productivity",
-        "focus"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-10T16:08:51Z"
+      "modified_at": "2026-05-11T13:15:07Z"
     },
     {
       "title": "9 May CNC Turning Rough Programming Practice",
@@ -271,6 +240,22 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-10T05:26:44Z"
+    },
+    {
+      "title": "Rewrite as tweet",
+      "filename": "Rewrite as tweet.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-10T05:26:44Z"
+    },
+    {
+      "title": "Rewrite as tweet thread",
+      "filename": "Rewrite as tweet thread.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-10T05:26:44Z"
     }
   ],
   "notes": [
@@ -313,7 +298,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study/CNC",
       "created_date": "2026-05-11",
-      "modified_at": "2026-05-11T12:33:58Z",
+      "modified_at": "2026-05-11T13:15:07Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -350,6 +335,26 @@
       "modified_at": "2025-11-29T16:15:31Z",
       "status": "",
       "source": "manual"
+    },
+    {
+      "title": "Obsidian Vault Assistant Full Demo Structure",
+      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+      "tags": [
+        "obsidian",
+        "vault-management",
+        "knowledge-management",
+        "markdown",
+        "personal-knowledge-management",
+        "demo"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "30_Resources",
+      "created_date": "2026-05-13",
+      "modified_at": "2026-05-13T16:07:32Z",
+      "status": "inbox",
+      "source": "webapp"
     },
     {
       "title": "9 May CNC Turning Rough Programming Practice",
@@ -517,60 +522,6 @@
       "modified_at": "2026-05-10T05:26:44Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "Cursor AI Coding Workflow",
-      "filename": "Cursor_AI_Coding_Workflow.md",
-      "tags": [
-        "ai-tools",
-        "coding",
-        "productivity"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "code",
-      "para_suggestion": "30_Resources",
-      "created_date": "2026-05-11",
-      "modified_at": "2026-05-11T06:19:11Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "Deep Work Session Planning Strategies",
-      "filename": "Deep_Work_Session_Planning_Strategies_20260510T161212.md",
-      "tags": [
-        "deep-work",
-        "productivity",
-        "focus"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "idea",
-      "para_suggestion": "20_Areas/10_Personal",
-      "created_date": "2026-05-10",
-      "modified_at": "2026-05-10T16:12:12Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "Deep Work Session Planning Strategies",
-      "filename": "Deep_Work_Session_Planning_Strategies.md",
-      "tags": [
-        "deep-work",
-        "productivity",
-        "focus"
-      ],
-      "backlinks": [
-        "idea",
-        "data"
-      ],
-      "photos": [],
-      "note_type": "idea",
-      "para_suggestion": "20_Areas/10_Personal",
-      "created_date": "Sun May 10 2026 05:30:00 GMT+0530 (India Standard Time)",
-      "modified_at": "2026-05-10T16:08:51Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "Emojify",
@@ -938,12 +889,6 @@
     ],
     "CNC_Programming_GCode_And_MCode_Reference": [
       "9_May_Cnc_Turning_Rough_Programming_Practice"
-    ],
-    "idea": [
-      "Deep_Work_Session_Planning_Strategies"
-    ],
-    "data": [
-      "Deep_Work_Session_Planning_Strategies"
     ]
   }
 }
