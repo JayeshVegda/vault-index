@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-13T18:20:45Z",
-  "last_full_reindex": "2026-05-13T18:20:45Z",
-  "total_notes": 37,
+  "last_updated": "2026-05-13T18:21:30Z",
+  "last_full_reindex": "2026-05-13T18:21:30Z",
+  "total_notes": 38,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 1,
+    "reference": 2,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -20,7 +20,7 @@
     "00_Inbox": 0,
     "10_Projects": 0,
     "20_Areas": 1,
-    "30_Resources": 0,
+    "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
   },
@@ -31,17 +31,23 @@
     "certificate",
     "cnc",
     "degree",
+    "demo",
     "gcode",
     "government",
     "govt",
     "id",
+    "knowledge-management",
     "manufacturing",
+    "markdown",
     "mca",
     "mcode",
+    "obsidian",
     "pdc",
+    "personal-knowledge-management",
     "result",
     "resume",
-    "school"
+    "school",
+    "vault-management"
   ],
   "tag_frequency": {
     "aadhaar": 1,
@@ -50,22 +56,29 @@
     "certificate": 1,
     "cnc": 1,
     "degree": 1,
+    "demo": 1,
     "gcode": 1,
     "government": 1,
     "govt": 1,
     "id": 2,
+    "knowledge-management": 1,
     "manufacturing": 1,
+    "markdown": 1,
     "mca": 6,
     "mcode": 1,
+    "obsidian": 1,
     "pdc": 1,
+    "personal-knowledge-management": 1,
     "result": 12,
     "resume": 1,
-    "school": 3
+    "school": 3,
+    "vault-management": 1
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
+    "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -103,6 +116,21 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "Obsidian Vault Assistant Full Demo Structure",
+      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+      "note_type": "reference",
+      "tags": [
+        "obsidian",
+        "vault-management",
+        "knowledge-management",
+        "markdown",
+        "personal-knowledge-management",
+        "demo"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-13T18:21:30Z"
+    },
     {
       "title": "Translate to Chinese",
       "filename": "Translate to Chinese.md",
@@ -174,14 +202,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Generate glossary",
-      "filename": "Generate glossary.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -235,6 +255,26 @@
       "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
+    },
+    {
+      "title": "Obsidian Vault Assistant Full Demo Structure",
+      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+      "tags": [
+        "obsidian",
+        "vault-management",
+        "knowledge-management",
+        "markdown",
+        "personal-knowledge-management",
+        "demo"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "30_Resources",
+      "created_date": "2026-05-13T14:30:00",
+      "modified_at": "2026-05-13T18:21:30Z",
+      "status": "inbox",
+      "source": "webapp"
     },
     {
       "title": "addhar_card",
