@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-13T17:57:46Z",
-  "last_full_reindex": "2026-05-13T17:57:46Z",
-  "total_notes": 41,
+  "last_updated": "2026-05-13T18:09:49Z",
+  "last_full_reindex": "2026-05-13T18:09:49Z",
+  "total_notes": 38,
   "note_type_counts": {
-    "idea": 0,
+    "idea": 1,
     "fleeting": 0,
-    "reference": 5,
+    "reference": 1,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -17,83 +17,64 @@
     "other": 0
   },
   "para_folder_counts": {
-    "00_Inbox": 0,
+    "00_Inbox": 1,
     "10_Projects": 0,
-    "20_Areas": 4,
-    "30_Resources": 1,
+    "20_Areas": 1,
+    "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
   },
   "tags": [
     "aadhaar",
     "academics",
+    "automation",
     "bca",
-    "cad",
     "certificate",
     "cnc",
-    "cnc-turning",
     "degree",
-    "demo",
     "gcode",
     "government",
     "govt",
     "id",
-    "knowledge-management",
-    "lathe-programming",
-    "machining",
     "manufacturing",
-    "markdown",
     "mca",
     "mcode",
     "obsidian",
     "pdc",
-    "personal-knowledge-management",
     "result",
     "resume",
     "school",
-    "technical-drawing",
-    "vault-management"
+    "tasker"
   ],
   "tag_frequency": {
     "aadhaar": 1,
-    "academics": 17,
+    "academics": 16,
+    "automation": 1,
     "bca": 6,
-    "cad": 2,
     "certificate": 1,
-    "cnc": 4,
-    "cnc-turning": 2,
+    "cnc": 1,
     "degree": 1,
-    "demo": 1,
-    "gcode": 4,
+    "gcode": 1,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "knowledge-management": 1,
-    "lathe-programming": 2,
-    "machining": 2,
-    "manufacturing": 4,
-    "markdown": 1,
+    "manufacturing": 1,
     "mca": 6,
-    "mcode": 4,
+    "mcode": 1,
     "obsidian": 1,
     "pdc": 1,
-    "personal-knowledge-management": 1,
     "result": 12,
     "resume": 1,
     "school": 3,
-    "technical-drawing": 2,
-    "vault-management": 1
+    "tasker": 1
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
-    "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-    "9_May_Cnc_Turning_Rough_Programming_Practice.md",
+    "13-May-26, Useful Idea About Tasker Capture.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
-    "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes.md",
-    "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925.md",
     "Emojify.md",
     "Explain like I am 5.md",
     "Fix grammar and spelling.md",
@@ -127,84 +108,19 @@
     "parul_pdc.md",
     "parul_resume.md"
   ],
-  "top_backlink_targets": [
-    {
-      "title": "CNC_MOC",
-      "filename": "",
-      "link_count": 2
-    },
-    {
-      "title": "CNC_Basics",
-      "filename": "",
-      "link_count": 2
-    },
-    {
-      "title": "Manufacturing_Processes",
-      "filename": "",
-      "link_count": 2
-    },
-    {
-      "title": "Beginner Friendly CNC Programming GCode And MCode Notes",
-      "filename": "",
-      "link_count": 1
-    },
-    {
-      "title": "CNC_Programming_GCode_And_MCode_Reference",
-      "filename": "",
-      "link_count": 1
-    }
-  ],
+  "top_backlink_targets": [],
   "last_10_notes": [
     {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-      "note_type": "reference",
+      "title": "Useful Idea About Tasker Capture",
+      "filename": "13-May-26, Useful Idea About Tasker Capture.md",
+      "note_type": "idea",
       "tags": [
+        "tasker",
         "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
+        "automation"
       ],
       "photos": [],
-      "modified_at": "2026-05-13T17:57:46Z"
-    },
-    {
-      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
-      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "gcode",
-        "mcode",
-        "cnc-turning",
-        "manufacturing",
-        "lathe-programming",
-        "machining",
-        "cad",
-        "technical-drawing"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-12T06:00:55Z"
-    },
-    {
-      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
-      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "gcode",
-        "mcode",
-        "cnc-turning",
-        "manufacturing",
-        "lathe-programming",
-        "machining",
-        "cad",
-        "technical-drawing"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-12T05:49:25Z"
+      "modified_at": "2026-05-13T18:09:49Z"
     },
     {
       "title": "Translate to Chinese",
@@ -257,6 +173,22 @@
     {
       "title": "Make shorter",
       "filename": "Make shorter.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Make longer",
+      "filename": "Make longer.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Generate table of contents",
+      "filename": "Generate table of contents.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -316,44 +248,19 @@
       "source": "manual"
     },
     {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+      "title": "Useful Idea About Tasker Capture",
+      "filename": "13-May-26, Useful Idea About Tasker Capture.md",
       "tags": [
+        "tasker",
         "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
+        "automation"
       ],
       "backlinks": [],
       "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "30_Resources",
+      "note_type": "idea",
+      "para_suggestion": "00_Inbox",
       "created_date": "2026-05-13",
-      "modified_at": "2026-05-13T17:57:46Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "9 May CNC Turning Rough Programming Practice",
-      "filename": "9_May_Cnc_Turning_Rough_Programming_Practice.md",
-      "tags": [
-        "academics",
-        "cnc",
-        "gcode",
-        "mcode",
-        "manufacturing"
-      ],
-      "backlinks": [
-        "Beginner Friendly CNC Programming GCode And MCode Notes",
-        "CNC_Programming_GCode_And_MCode_Reference"
-      ],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "20_Areas/20_Study/CNC",
-      "created_date": "2026-05-09T14:30:00",
-      "modified_at": "2026-05-11T07:49:03Z",
+      "modified_at": "2026-05-13T18:09:49Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -501,60 +408,6 @@
       "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
-      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925.md",
-      "tags": [
-        "cnc",
-        "gcode",
-        "mcode",
-        "cnc-turning",
-        "manufacturing",
-        "lathe-programming",
-        "machining",
-        "cad",
-        "technical-drawing"
-      ],
-      "backlinks": [
-        "CNC_MOC",
-        "CNC_Basics",
-        "Manufacturing_Processes"
-      ],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "20_Areas/20_Study/CNC",
-      "created_date": "2026-05-12",
-      "modified_at": "2026-05-12T05:49:25Z",
-      "status": "inbox",
-      "source": "webapp"
-    },
-    {
-      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
-      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes.md",
-      "tags": [
-        "cnc",
-        "gcode",
-        "mcode",
-        "cnc-turning",
-        "manufacturing",
-        "lathe-programming",
-        "machining",
-        "cad",
-        "technical-drawing"
-      ],
-      "backlinks": [
-        "CNC_MOC",
-        "CNC_Basics",
-        "Manufacturing_Processes"
-      ],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "20_Areas/20_Study/CNC",
-      "created_date": "2026-05-12",
-      "modified_at": "2026-05-12T06:00:55Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "Emojify",
@@ -916,24 +769,5 @@
       "source": "manual"
     }
   ],
-  "backlinks": {
-    "Beginner Friendly CNC Programming GCode And MCode Notes": [
-      "9_May_Cnc_Turning_Rough_Programming_Practice"
-    ],
-    "CNC_Programming_GCode_And_MCode_Reference": [
-      "9_May_Cnc_Turning_Rough_Programming_Practice"
-    ],
-    "CNC_MOC": [
-      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes",
-      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925"
-    ],
-    "CNC_Basics": [
-      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes",
-      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925"
-    ],
-    "Manufacturing_Processes": [
-      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes",
-      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925"
-    ]
-  }
+  "backlinks": {}
 }
