@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-13T16:07:32Z",
-  "last_full_reindex": "2026-05-13T16:07:32Z",
-  "total_notes": 40,
+  "last_updated": "2026-05-13T17:24:28Z",
+  "last_full_reindex": "2026-05-13T17:24:28Z",
+  "total_notes": 39,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 4,
+    "reference": 3,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -20,7 +20,7 @@
     "00_Inbox": 0,
     "10_Projects": 0,
     "20_Areas": 3,
-    "30_Resources": 1,
+    "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
   },
@@ -33,29 +33,23 @@
     "cnc-programming",
     "cnc-turning",
     "degree",
-    "demo",
     "gcode",
     "government",
     "govt",
     "id",
-    "knowledge-management",
     "lathe",
     "machining",
     "manufacturing",
-    "markdown",
     "mca",
     "mcode",
-    "obsidian",
     "pdc",
-    "personal-knowledge-management",
     "profile-machining",
     "result",
     "resume",
     "rough-turning",
     "school",
     "study-notes",
-    "tool-offset",
-    "vault-management"
+    "tool-offset"
   ],
   "tag_frequency": {
     "aadhaar": 1,
@@ -66,36 +60,29 @@
     "cnc-programming": 1,
     "cnc-turning": 1,
     "degree": 1,
-    "demo": 1,
     "gcode": 3,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "knowledge-management": 1,
     "lathe": 1,
     "machining": 1,
     "manufacturing": 3,
-    "markdown": 1,
     "mca": 6,
     "mcode": 3,
-    "obsidian": 1,
     "pdc": 1,
-    "personal-knowledge-management": 1,
     "profile-machining": 1,
     "result": 12,
     "resume": 1,
     "rough-turning": 1,
     "school": 3,
     "study-notes": 1,
-    "tool-offset": 1,
-    "vault-management": 1
+    "tool-offset": 1
   },
   "orphan_notes": [
     "10_result.md",
     "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
     "12_leave.md",
     "12_result.md",
-    "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
     "9_May_Cnc_Turning_Rough_Programming_Practice.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
@@ -145,21 +132,6 @@
     }
   ],
   "last_10_notes": [
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-      "note_type": "reference",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-13T16:07:32Z"
-    },
     {
       "title": "Complete CNC Turning Class Notes And Practical Programming Concepts",
       "filename": "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
@@ -256,6 +228,14 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-10T05:26:44Z"
+    },
+    {
+      "title": "Remove URLs",
+      "filename": "Remove URLs.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-10T05:26:44Z"
     }
   ],
   "notes": [
@@ -335,26 +315,6 @@
       "modified_at": "2025-11-29T16:15:31Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "Obsidian Vault Assistant Full Demo Structure",
-      "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
-      "tags": [
-        "obsidian",
-        "vault-management",
-        "knowledge-management",
-        "markdown",
-        "personal-knowledge-management",
-        "demo"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "30_Resources",
-      "created_date": "2026-05-13",
-      "modified_at": "2026-05-13T16:07:32Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "9 May CNC Turning Rough Programming Practice",
