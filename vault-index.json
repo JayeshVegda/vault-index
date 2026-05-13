@@ -1,25 +1,21 @@
 {
-  "last_updated": "2026-05-13T17:24:28Z",
-  "last_full_reindex": "2026-05-13T17:24:28Z",
-  "total_notes": 39,
+  "last_updated": "2026-05-12T05:49:25Z",
+  "last_full_reindex": "2026-05-12T05:49:25Z",
+  "total_notes": 40,
   "note_type_counts": {
     "idea": 0,
-    "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
     "book": 0,
     "person": 0,
-    "code": 0,
-    "business": 0,
-    "moc": 0,
-    "other": 0
+    "code": 0
   },
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 3,
+    "20_Areas": 4,
     "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
@@ -28,64 +24,59 @@
     "aadhaar",
     "academics",
     "bca",
+    "cad",
     "certificate",
     "cnc",
-    "cnc-programming",
     "cnc-turning",
     "degree",
     "gcode",
     "government",
     "govt",
     "id",
-    "lathe",
+    "lathe-programming",
     "machining",
     "manufacturing",
     "mca",
     "mcode",
     "pdc",
-    "profile-machining",
     "result",
     "resume",
-    "rough-turning",
     "school",
-    "study-notes",
-    "tool-offset"
+    "technical-drawing"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 17,
     "bca": 6,
+    "cad": 2,
     "certificate": 1,
-    "cnc": 3,
-    "cnc-programming": 1,
-    "cnc-turning": 1,
+    "cnc": 4,
+    "cnc-turning": 2,
     "degree": 1,
-    "gcode": 3,
+    "gcode": 4,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "lathe": 1,
-    "machining": 1,
-    "manufacturing": 3,
+    "lathe-programming": 2,
+    "machining": 2,
+    "manufacturing": 4,
     "mca": 6,
-    "mcode": 3,
+    "mcode": 4,
     "pdc": 1,
-    "profile-machining": 1,
     "result": 12,
     "resume": 1,
-    "rough-turning": 1,
     "school": 3,
-    "study-notes": 1,
-    "tool-offset": 1
+    "technical-drawing": 2
   },
   "orphan_notes": [
     "10_result.md",
-    "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
     "12_leave.md",
     "12_result.md",
     "9_May_Cnc_Turning_Rough_Programming_Practice.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
+    "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes.md",
+    "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925.md",
     "Emojify.md",
     "Explain like I am 5.md",
     "Fix grammar and spelling.md",
@@ -121,6 +112,21 @@
   ],
   "top_backlink_targets": [
     {
+      "title": "CNC_MOC",
+      "filename": "",
+      "link_count": 2
+    },
+    {
+      "title": "CNC_Basics",
+      "filename": "",
+      "link_count": 2
+    },
+    {
+      "title": "Manufacturing_Processes",
+      "filename": "",
+      "link_count": 2
+    },
+    {
       "title": "Beginner Friendly CNC Programming GCode And MCode Notes",
       "filename": "",
       "link_count": 1
@@ -133,61 +139,40 @@
   ],
   "last_10_notes": [
     {
-      "title": "Complete CNC Turning Class Notes And Practical Programming Concepts",
-      "filename": "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
+      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
+      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925.md",
       "note_type": "reference",
       "tags": [
         "cnc",
-        "cnc-programming",
         "gcode",
         "mcode",
         "cnc-turning",
         "manufacturing",
-        "tool-offset",
-        "lathe",
+        "lathe-programming",
         "machining",
-        "study-notes",
-        "rough-turning",
-        "profile-machining"
+        "cad",
+        "technical-drawing"
       ],
       "photos": [],
-      "modified_at": "2026-05-11T13:15:07Z"
+      "modified_at": "2026-05-12T05:49:25Z"
     },
     {
-      "title": "9 May CNC Turning Rough Programming Practice",
-      "filename": "9_May_Cnc_Turning_Rough_Programming_Practice.md",
+      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
+      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes.md",
       "note_type": "reference",
       "tags": [
-        "academics",
         "cnc",
         "gcode",
         "mcode",
-        "manufacturing"
+        "cnc-turning",
+        "manufacturing",
+        "lathe-programming",
+        "machining",
+        "cad",
+        "technical-drawing"
       ],
       "photos": [],
-      "modified_at": "2026-05-10T06:33:38Z"
-    },
-    {
-      "title": "GCode & MCode Notes",
-      "filename": "G-Code & M-Code Notes.md",
-      "note_type": "reference",
-      "tags": [
-        "academics",
-        "cnc",
-        "gcode",
-        "mcode",
-        "manufacturing"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-10T06:28:28Z"
-    },
-    {
-      "title": "Clip Web Page",
-      "filename": "Clip Web Page.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-10T05:26:45Z"
+      "modified_at": "2026-05-12T05:33:37Z"
     },
     {
       "title": "Translate to Chinese",
@@ -195,7 +180,7 @@
       "note_type": "",
       "tags": [],
       "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
+      "modified_at": "2026-05-11T07:49:04Z"
     },
     {
       "title": "Summarize",
@@ -203,7 +188,7 @@
       "note_type": "",
       "tags": [],
       "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
+      "modified_at": "2026-05-11T07:49:04Z"
     },
     {
       "title": "Simplify",
@@ -211,7 +196,7 @@
       "note_type": "",
       "tags": [],
       "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
+      "modified_at": "2026-05-11T07:49:04Z"
     },
     {
       "title": "Rewrite as tweet",
@@ -219,7 +204,7 @@
       "note_type": "",
       "tags": [],
       "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
+      "modified_at": "2026-05-11T07:49:04Z"
     },
     {
       "title": "Rewrite as tweet thread",
@@ -227,7 +212,7 @@
       "note_type": "",
       "tags": [],
       "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
+      "modified_at": "2026-05-11T07:49:04Z"
     },
     {
       "title": "Remove URLs",
@@ -235,7 +220,23 @@
       "note_type": "",
       "tags": [],
       "photos": [],
-      "modified_at": "2026-05-10T05:26:44Z"
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Make shorter",
+      "filename": "Make shorter.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
+    },
+    {
+      "title": "Make longer",
+      "filename": "Make longer.md",
+      "note_type": "",
+      "tags": [],
+      "photos": [],
+      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -252,35 +253,9 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:07:41Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "Complete CNC Turning Class Notes And Practical Programming Concepts",
-      "filename": "11-May-26, Complete CNC Turning Class Notes And Practical Programming Concepts.md",
-      "tags": [
-        "cnc",
-        "cnc-programming",
-        "gcode",
-        "mcode",
-        "cnc-turning",
-        "manufacturing",
-        "tool-offset",
-        "lathe",
-        "machining",
-        "study-notes",
-        "rough-turning",
-        "profile-machining"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "20_Areas/20_Study/CNC",
-      "created_date": "2026-05-11",
-      "modified_at": "2026-05-11T13:15:07Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "12_leave",
@@ -295,7 +270,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:16:46Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -312,7 +287,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:15:31Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -334,7 +309,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study/CNC",
       "created_date": "2026-05-09T14:30:00",
-      "modified_at": "2026-05-10T06:33:38Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -351,7 +326,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:23:51Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -368,7 +343,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:18:35Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -385,7 +360,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:59:06Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -402,7 +377,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:59:04Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -419,7 +394,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:59:02Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -436,7 +411,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:58:59Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -453,7 +428,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:58:54Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -466,7 +441,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:45Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -479,9 +454,63 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
+    },
+    {
+      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
+      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "mcode",
+        "cnc-turning",
+        "manufacturing",
+        "lathe-programming",
+        "machining",
+        "cad",
+        "technical-drawing"
+      ],
+      "backlinks": [
+        "CNC_MOC",
+        "CNC_Basics",
+        "Manufacturing_Processes"
+      ],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study/CNC",
+      "created_date": "2026-05-12",
+      "modified_at": "2026-05-12T05:49:25Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Turning Practice Drawings And G-Code Profile Programming Notes",
+      "filename": "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "mcode",
+        "cnc-turning",
+        "manufacturing",
+        "lathe-programming",
+        "machining",
+        "cad",
+        "technical-drawing"
+      ],
+      "backlinks": [
+        "CNC_MOC",
+        "CNC_Basics",
+        "Manufacturing_Processes"
+      ],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study/CNC",
+      "created_date": "2026-05-12",
+      "modified_at": "2026-05-12T05:33:37Z",
+      "status": "inbox",
+      "source": "webapp"
     },
     {
       "title": "Emojify",
@@ -492,7 +521,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -505,7 +534,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -518,7 +547,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -536,8 +565,8 @@
       "photos": [],
       "note_type": "reference",
       "para_suggestion": "20_Areas",
-      "created_date": "Sun May 10 2026 05:30:00 GMT+0530 (India Standard Time)",
-      "modified_at": "2026-05-10T06:28:28Z",
+      "created_date": "Sun May 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -550,7 +579,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -563,7 +592,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -576,7 +605,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -589,7 +618,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -606,7 +635,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:02:17Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -623,7 +652,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:04:21Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -640,7 +669,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:04:18Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -657,7 +686,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:04:03Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -670,7 +699,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T12:46:16Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -683,7 +712,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T14:37:41Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -699,7 +728,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:40:46Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "active",
       "source": "manual"
     },
@@ -712,7 +741,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T15:05:52Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -730,7 +759,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:05:32Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -747,7 +776,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:06:26Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     },
@@ -760,7 +789,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -773,7 +802,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -786,7 +815,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -799,7 +828,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -812,7 +841,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -825,7 +854,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2026-05-10T05:26:44Z",
+      "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
     },
@@ -838,7 +867,7 @@
       "note_type": "",
       "para_suggestion": "",
       "created_date": "",
-      "modified_at": "2025-11-29T16:21:16Z",
+      "modified_at": "2026-05-11T07:49:03Z",
       "status": "",
       "source": "manual"
     }
@@ -849,6 +878,18 @@
     ],
     "CNC_Programming_GCode_And_MCode_Reference": [
       "9_May_Cnc_Turning_Rough_Programming_Practice"
+    ],
+    "CNC_MOC": [
+      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes",
+      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925"
+    ],
+    "CNC_Basics": [
+      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes",
+      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925"
+    ],
+    "Manufacturing_Processes": [
+      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes",
+      "Cnc_Turning_Practice_Drawings_And_Gcode_Profile_Programming_Notes_20260512T054925"
     ]
   }
 }
