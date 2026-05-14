@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-14T06:27:46Z",
-  "last_full_reindex": "2026-05-14T06:27:46Z",
-  "total_notes": 40,
+  "last_updated": "2026-05-14T06:40:21Z",
+  "last_full_reindex": "2026-05-14T06:40:21Z",
+  "total_notes": 41,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 4,
+    "reference": 5,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 3,
+    "20_Areas": 4,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -62,19 +62,19 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "chamfer": 1,
-    "cnc": 3,
+    "chamfer": 2,
+    "cnc": 4,
     "cnc-turning": 1,
     "degree": 1,
     "demo": 1,
     "g02-g03": 1,
-    "gcode": 3,
+    "gcode": 4,
     "government": 1,
     "govt": 1,
     "id": 2,
     "knowledge-management": 1,
     "lathe-programming": 1,
-    "machining": 2,
+    "machining": 3,
     "manufacturing": 1,
     "markdown": 1,
     "mca": 6,
@@ -82,12 +82,12 @@
     "obsidian": 1,
     "pdc": 1,
     "personal-knowledge-management": 1,
-    "radius": 1,
+    "radius": 2,
     "result": 12,
     "resume": 1,
     "school": 3,
-    "study": 2,
-    "turning": 1,
+    "study": 3,
+    "turning": 2,
     "vault-management": 1
   },
   "orphan_notes": [
@@ -97,6 +97,7 @@
     "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
     "14-May-26, CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples.md",
     "14-May-26, CNC Turning Coordinates for Radius and Chamfer Finishing.md",
+    "14-May-26, CNC Turning Radius And Chamfer Coordinate Calculation.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -135,6 +136,22 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "CNC Turning Radius And Chamfer Coordinate Calculation",
+      "filename": "14-May-26, CNC Turning Radius And Chamfer Coordinate Calculation.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "machining",
+        "study",
+        "radius",
+        "chamfer"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-14T06:40:21Z"
+    },
+    {
       "title": "CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples",
       "filename": "14-May-26, CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples.md",
       "note_type": "reference",
@@ -148,7 +165,7 @@
         "cnc-turning"
       ],
       "photos": [],
-      "modified_at": "2026-05-14T06:27:46Z"
+      "modified_at": "2026-05-14T06:29:42Z"
     },
     {
       "title": "CNC Turning Coordinates for Radius and Chamfer Finishing",
@@ -224,14 +241,6 @@
     {
       "title": "Remove URLs",
       "filename": "Remove URLs.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Make shorter",
-      "filename": "Make shorter.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -327,7 +336,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study/CNC",
       "created_date": "2026-05-14",
-      "modified_at": "2026-05-14T06:27:46Z",
+      "modified_at": "2026-05-14T06:29:42Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -349,6 +358,27 @@
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "2026-05-14",
       "modified_at": "2026-05-14T06:20:40Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Turning Radius And Chamfer Coordinate Calculation",
+      "filename": "14-May-26, CNC Turning Radius And Chamfer Coordinate Calculation.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "machining",
+        "study",
+        "radius",
+        "chamfer"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study/CNC",
+      "created_date": "2026-05-14",
+      "modified_at": "2026-05-14T06:40:21Z",
       "status": "inbox",
       "source": "webapp"
     },
