@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-14T07:50:52Z",
-  "last_full_reindex": "2026-05-14T07:50:52Z",
-  "total_notes": 39,
+  "last_updated": "2026-05-14T07:55:04Z",
+  "last_full_reindex": "2026-05-14T07:55:04Z",
+  "total_notes": 40,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -20,7 +20,7 @@
     "00_Inbox": 0,
     "10_Projects": 0,
     "20_Areas": 2,
-    "30_Resources": 1,
+    "30_Resources": 2,
     "40_Archives": 0,
     "99_System": 0
   },
@@ -60,25 +60,25 @@
     "cnc": 2,
     "coordinates": 1,
     "degree": 1,
-    "demo": 1,
+    "demo": 2,
     "gcode": 2,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "json": 1,
+    "json": 2,
     "lathe": 1,
     "machining": 1,
     "manufacturing": 1,
     "mca": 6,
     "mcode": 1,
-    "obsidian": 1,
+    "obsidian": 2,
     "pdc": 1,
-    "pkm": 1,
+    "pkm": 2,
     "result": 12,
     "resume": 1,
     "school": 3,
     "study": 1,
-    "vault-bot": 1
+    "vault-bot": 2
   },
   "orphan_notes": [
     "10_result.md",
@@ -86,6 +86,7 @@
     "12_result.md",
     "13-May-26, CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing.md",
     "14-May-26, Vault Bot Demo Payload.md",
+    "14-May-26, Vault Bot Demo Payload_20260514T075504.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -123,6 +124,20 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "Vault Bot Demo Payload",
+      "filename": "14-May-26, Vault Bot Demo Payload_20260514T075504.md",
+      "note_type": "reference",
+      "tags": [
+        "vault-bot",
+        "demo",
+        "obsidian",
+        "json",
+        "pkm"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-14T07:55:04Z"
+    },
     {
       "title": "Vault Bot Demo Payload",
       "filename": "14-May-26, Vault Bot Demo Payload.md",
@@ -207,14 +222,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Make longer",
-      "filename": "Make longer.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -286,6 +293,25 @@
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "2026-05-13",
       "modified_at": "2026-05-14T07:14:04Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "Vault Bot Demo Payload",
+      "filename": "14-May-26, Vault Bot Demo Payload_20260514T075504.md",
+      "tags": [
+        "vault-bot",
+        "demo",
+        "obsidian",
+        "json",
+        "pkm"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "30_Resources",
+      "created_date": "2026-05-14T10:30:00+05:30",
+      "modified_at": "2026-05-14T07:55:04Z",
       "status": "inbox",
       "source": "webapp"
     },
