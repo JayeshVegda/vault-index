@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-13T18:21:30Z",
-  "last_full_reindex": "2026-05-13T18:21:30Z",
-  "total_notes": 38,
+  "last_updated": "2026-05-14T06:20:40Z",
+  "last_full_reindex": "2026-05-14T06:20:40Z",
+  "total_notes": 39,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 2,
+    "reference": 3,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 1,
+    "20_Areas": 2,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -29,6 +29,7 @@
     "academics",
     "bca",
     "certificate",
+    "chamfer",
     "cnc",
     "degree",
     "demo",
@@ -37,6 +38,7 @@
     "govt",
     "id",
     "knowledge-management",
+    "machining",
     "manufacturing",
     "markdown",
     "mca",
@@ -44,9 +46,12 @@
     "obsidian",
     "pdc",
     "personal-knowledge-management",
+    "radius",
     "result",
     "resume",
     "school",
+    "study",
+    "turning",
     "vault-management"
   ],
   "tag_frequency": {
@@ -54,14 +59,16 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 1,
+    "chamfer": 1,
+    "cnc": 2,
     "degree": 1,
     "demo": 1,
-    "gcode": 1,
+    "gcode": 2,
     "government": 1,
     "govt": 1,
     "id": 2,
     "knowledge-management": 1,
+    "machining": 1,
     "manufacturing": 1,
     "markdown": 1,
     "mca": 6,
@@ -69,9 +76,12 @@
     "obsidian": 1,
     "pdc": 1,
     "personal-knowledge-management": 1,
+    "radius": 1,
     "result": 12,
     "resume": 1,
     "school": 3,
+    "study": 1,
+    "turning": 1,
     "vault-management": 1
   },
   "orphan_notes": [
@@ -79,6 +89,7 @@
     "12_leave.md",
     "12_result.md",
     "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+    "14-May-26, CNC Turning Coordinates for Radius and Chamfer Finishing.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -116,6 +127,22 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "CNC Turning Coordinates for Radius and Chamfer Finishing",
+      "filename": "14-May-26, CNC Turning Coordinates for Radius and Chamfer Finishing.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "machining",
+        "study",
+        "radius",
+        "chamfer"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-14T06:20:40Z"
+    },
     {
       "title": "Obsidian Vault Assistant Full Demo Structure",
       "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
@@ -194,14 +221,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Generate table of contents",
-      "filename": "Generate table of contents.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -273,6 +292,27 @@
       "para_suggestion": "30_Resources",
       "created_date": "2026-05-13T14:30:00",
       "modified_at": "2026-05-13T18:21:30Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Turning Coordinates for Radius and Chamfer Finishing",
+      "filename": "14-May-26, CNC Turning Coordinates for Radius and Chamfer Finishing.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "machining",
+        "study",
+        "radius",
+        "chamfer"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "2026-05-14",
+      "modified_at": "2026-05-14T06:20:40Z",
       "status": "inbox",
       "source": "webapp"
     },
