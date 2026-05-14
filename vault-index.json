@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-14T09:09:39Z",
-  "last_full_reindex": "2026-05-14T09:09:39Z",
-  "total_notes": 39,
+  "last_updated": "2026-05-14T10:31:04Z",
+  "last_full_reindex": "2026-05-14T10:31:04Z",
+  "total_notes": 40,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 3,
+    "20_Areas": 4,
     "30_Resources": 0,
     "40_Archives": 0,
     "99_System": 0
@@ -42,10 +42,12 @@
     "mca",
     "mcode",
     "pdc",
+    "profile-coordinates",
     "result",
     "resume",
     "school",
     "study",
+    "turning",
     "xz-coordinates"
   ],
   "tag_frequency": {
@@ -53,23 +55,25 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 3,
+    "cnc": 4,
     "coordinates": 1,
     "degree": 1,
-    "gcode": 3,
+    "gcode": 4,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 2,
-    "machining": 2,
+    "machining": 3,
     "manufacturing": 1,
     "mca": 6,
     "mcode": 1,
     "pdc": 1,
+    "profile-coordinates": 1,
     "result": 12,
     "resume": 1,
     "school": 3,
-    "study": 2,
+    "study": 3,
+    "turning": 1,
     "xz-coordinates": 1
   },
   "orphan_notes": [
@@ -78,6 +82,7 @@
     "12_result.md",
     "13-May-26, CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing.md",
     "14-May-26, CNC Lathe XZ Coordinate Method For 45 Degree Chamfers.md",
+    "14-May-26, CNC Turning Profile Coordinate Extraction From Part 2 Drawing.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -115,6 +120,21 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "CNC Turning Profile Coordinate Extraction From Part 2 Drawing",
+      "filename": "14-May-26, CNC Turning Profile Coordinate Extraction From Part 2 Drawing.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "turning",
+        "gcode",
+        "study",
+        "machining",
+        "profile-coordinates"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-14T10:31:04Z"
+    },
     {
       "title": "CNC Lathe XZ Coordinate Method For 45 Degree Chamfers",
       "filename": "14-May-26, CNC Lathe XZ Coordinate Method For 45 Degree Chamfers.md",
@@ -196,14 +216,6 @@
     {
       "title": "Make shorter",
       "filename": "Make shorter.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Make longer",
-      "filename": "Make longer.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -299,6 +311,26 @@
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "2026-05-14",
       "modified_at": "2026-05-14T09:09:39Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Turning Profile Coordinate Extraction From Part 2 Drawing",
+      "filename": "14-May-26, CNC Turning Profile Coordinate Extraction From Part 2 Drawing.md",
+      "tags": [
+        "cnc",
+        "turning",
+        "gcode",
+        "study",
+        "machining",
+        "profile-coordinates"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "2026-05-14",
+      "modified_at": "2026-05-14T10:31:04Z",
       "status": "inbox",
       "source": "webapp"
     },
