@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-14T06:20:40Z",
-  "last_full_reindex": "2026-05-14T06:20:40Z",
-  "total_notes": 39,
+  "last_updated": "2026-05-14T06:27:46Z",
+  "last_full_reindex": "2026-05-14T06:27:46Z",
+  "total_notes": 40,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 2,
+    "20_Areas": 3,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -31,13 +31,16 @@
     "certificate",
     "chamfer",
     "cnc",
+    "cnc-turning",
     "degree",
     "demo",
+    "g02-g03",
     "gcode",
     "government",
     "govt",
     "id",
     "knowledge-management",
+    "lathe-programming",
     "machining",
     "manufacturing",
     "markdown",
@@ -60,15 +63,18 @@
     "bca": 6,
     "certificate": 1,
     "chamfer": 1,
-    "cnc": 2,
+    "cnc": 3,
+    "cnc-turning": 1,
     "degree": 1,
     "demo": 1,
-    "gcode": 2,
+    "g02-g03": 1,
+    "gcode": 3,
     "government": 1,
     "govt": 1,
     "id": 2,
     "knowledge-management": 1,
-    "machining": 1,
+    "lathe-programming": 1,
+    "machining": 2,
     "manufacturing": 1,
     "markdown": 1,
     "mca": 6,
@@ -80,7 +86,7 @@
     "result": 12,
     "resume": 1,
     "school": 3,
-    "study": 1,
+    "study": 2,
     "turning": 1,
     "vault-management": 1
   },
@@ -89,6 +95,7 @@
     "12_leave.md",
     "12_result.md",
     "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
+    "14-May-26, CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples.md",
     "14-May-26, CNC Turning Coordinates for Radius and Chamfer Finishing.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
@@ -127,6 +134,22 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples",
+      "filename": "14-May-26, CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "lathe-programming",
+        "machining",
+        "study",
+        "g02-g03",
+        "cnc-turning"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-14T06:27:46Z"
+    },
     {
       "title": "CNC Turning Coordinates for Radius and Chamfer Finishing",
       "filename": "14-May-26, CNC Turning Coordinates for Radius and Chamfer Finishing.md",
@@ -213,14 +236,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Make longer",
-      "filename": "Make longer.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -292,6 +307,27 @@
       "para_suggestion": "30_Resources",
       "created_date": "2026-05-13T14:30:00",
       "modified_at": "2026-05-13T18:21:30Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples",
+      "filename": "14-May-26, CNC Lathe Profile Programming With G01 G02 G03 Chamfer And Radius Examples.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "lathe-programming",
+        "machining",
+        "study",
+        "g02-g03",
+        "cnc-turning"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study/CNC",
+      "created_date": "2026-05-14",
+      "modified_at": "2026-05-14T06:27:46Z",
       "status": "inbox",
       "source": "webapp"
     },
