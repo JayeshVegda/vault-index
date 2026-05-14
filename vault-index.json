@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-14T06:49:42Z",
-  "last_full_reindex": "2026-05-14T06:49:42Z",
-  "total_notes": 39,
+  "last_updated": "2026-05-14T06:56:16Z",
+  "last_full_reindex": "2026-05-14T06:56:16Z",
+  "total_notes": 40,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 2,
+    "20_Areas": 3,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -32,6 +32,7 @@
     "chamfer",
     "cnc",
     "cnc-turning",
+    "coordinates",
     "degree",
     "demo",
     "g02-g03",
@@ -40,6 +41,7 @@
     "govt",
     "id",
     "knowledge-management",
+    "lathe",
     "lathe-programming",
     "machining",
     "manufacturing",
@@ -62,18 +64,20 @@
     "bca": 6,
     "certificate": 1,
     "chamfer": 1,
-    "cnc": 2,
+    "cnc": 3,
     "cnc-turning": 1,
+    "coordinates": 1,
     "degree": 1,
     "demo": 1,
     "g02-g03": 1,
-    "gcode": 2,
+    "gcode": 3,
     "government": 1,
     "govt": 1,
     "id": 2,
     "knowledge-management": 1,
+    "lathe": 1,
     "lathe-programming": 1,
-    "machining": 1,
+    "machining": 2,
     "manufacturing": 1,
     "markdown": 1,
     "mca": 6,
@@ -85,13 +89,14 @@
     "result": 12,
     "resume": 1,
     "school": 3,
-    "study": 1,
+    "study": 2,
     "vault-management": 1
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
+    "13-May-26, CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing.md",
     "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
     "14-May-26, CNC Turning Radius And Chamfer Coordinate Calculation.md",
     "Clip Web Page.md",
@@ -132,6 +137,21 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing",
+      "filename": "13-May-26, CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "lathe",
+        "machining",
+        "study",
+        "coordinates"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-14T06:56:16Z"
+    },
+    {
       "title": "CNC Turning Radius And Chamfer Coordinate Calculation",
       "filename": "14-May-26, CNC Turning Radius And Chamfer Coordinate Calculation.md",
       "note_type": "reference",
@@ -147,7 +167,7 @@
         "g02-g03"
       ],
       "photos": [],
-      "modified_at": "2026-05-14T06:49:42Z"
+      "modified_at": "2026-05-14T06:50:07Z"
     },
     {
       "title": "Obsidian Vault Assistant Full Demo Structure",
@@ -219,14 +239,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Make longer",
-      "filename": "Make longer.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -282,6 +294,26 @@
       "source": "manual"
     },
     {
+      "title": "CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing",
+      "filename": "13-May-26, CNC Lathe Coordinate Calculation For Radius And Chamfer Finishing.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "lathe",
+        "machining",
+        "study",
+        "coordinates"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "2026-05-13",
+      "modified_at": "2026-05-14T06:56:16Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
       "title": "Obsidian Vault Assistant Full Demo Structure",
       "filename": "13-May-26, Obsidian Vault Assistant Full Demo Structure.md",
       "tags": [
@@ -320,7 +352,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study/CNC",
       "created_date": "2026-05-14",
-      "modified_at": "2026-05-14T06:49:42Z",
+      "modified_at": "2026-05-14T06:50:07Z",
       "status": "inbox",
       "source": "webapp"
     },
