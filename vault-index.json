@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-16T11:00:59Z",
-  "last_full_reindex": "2026-05-16T11:00:59Z",
+  "last_updated": "2026-05-16T12:23:28Z",
+  "last_full_reindex": "2026-05-16T12:23:28Z",
   "total_notes": 38,
   "note_type_counts": {
     "idea": 0,
@@ -19,8 +19,8 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 2,
-    "30_Resources": 0,
+    "20_Areas": 1,
+    "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
   },
@@ -31,10 +31,13 @@
     "certificate",
     "cnc",
     "degree",
+    "fanuc",
     "gcode",
     "government",
     "govt",
     "id",
+    "lathe",
+    "machining",
     "manufacturing",
     "mca",
     "mcode",
@@ -42,37 +45,38 @@
     "result",
     "resume",
     "school",
-    "testing",
-    "vault-bot",
-    "workflow"
+    "siemens",
+    "study-notes"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 1,
+    "cnc": 2,
     "degree": 1,
-    "gcode": 1,
+    "fanuc": 1,
+    "gcode": 2,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "manufacturing": 1,
+    "lathe": 1,
+    "machining": 1,
+    "manufacturing": 2,
     "mca": 6,
     "mcode": 1,
     "pdc": 1,
     "result": 12,
     "resume": 1,
     "school": 3,
-    "testing": 1,
-    "vault-bot": 1,
-    "workflow": 1
+    "siemens": 1,
+    "study-notes": 1
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
-    "16-May-26, Vault Bot Attachment Workflow.md",
+    "7-May-26, Fundamentals of CNC Lathe Programming.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -111,16 +115,21 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
-      "title": "Vault Bot Attachment Workflow",
-      "filename": "16-May-26, Vault Bot Attachment Workflow.md",
+      "title": "Fundamentals of CNC Lathe Programming",
+      "filename": "7-May-26, Fundamentals of CNC Lathe Programming.md",
       "note_type": "reference",
       "tags": [
-        "vault-bot",
-        "testing",
-        "workflow"
+        "cnc",
+        "lathe",
+        "manufacturing",
+        "fanuc",
+        "siemens",
+        "gcode",
+        "study-notes",
+        "machining"
       ],
       "photos": [],
-      "modified_at": "2026-05-16T11:00:58Z"
+      "modified_at": "2026-05-16T12:23:28Z"
     },
     {
       "title": "Translate to Chinese",
@@ -248,19 +257,24 @@
       "source": "manual"
     },
     {
-      "title": "Vault Bot Attachment Workflow",
-      "filename": "16-May-26, Vault Bot Attachment Workflow.md",
+      "title": "Fundamentals of CNC Lathe Programming",
+      "filename": "7-May-26, Fundamentals of CNC Lathe Programming.md",
       "tags": [
-        "vault-bot",
-        "testing",
-        "workflow"
+        "cnc",
+        "lathe",
+        "manufacturing",
+        "fanuc",
+        "siemens",
+        "gcode",
+        "study-notes",
+        "machining"
       ],
       "backlinks": [],
       "photos": [],
       "note_type": "reference",
-      "para_suggestion": "20_Areas/20_Study",
-      "created_date": "16-05-2026",
-      "modified_at": "2026-05-16T11:00:58Z",
+      "para_suggestion": "30_Resources",
+      "created_date": "07-05-2026",
+      "modified_at": "2026-05-16T12:23:28Z",
       "status": "inbox",
       "source": "webapp"
     },
