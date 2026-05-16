@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-16T12:23:28Z",
-  "last_full_reindex": "2026-05-16T12:23:28Z",
-  "total_notes": 38,
+  "last_updated": "2026-05-16T12:37:00Z",
+  "last_full_reindex": "2026-05-16T12:37:00Z",
+  "total_notes": 39,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 2,
+    "reference": 3,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 1,
+    "20_Areas": 2,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -30,6 +30,7 @@
     "bca",
     "certificate",
     "cnc",
+    "cnc-turning",
     "degree",
     "fanuc",
     "gcode",
@@ -53,16 +54,17 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 2,
+    "cnc": 3,
+    "cnc-turning": 1,
     "degree": 1,
     "fanuc": 1,
-    "gcode": 2,
+    "gcode": 3,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 1,
-    "machining": 1,
-    "manufacturing": 2,
+    "machining": 2,
+    "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
     "pdc": 1,
@@ -70,13 +72,14 @@
     "resume": 1,
     "school": 3,
     "siemens": 1,
-    "study-notes": 1
+    "study-notes": 2
   },
   "orphan_notes": [
     "10_result.md",
     "12_leave.md",
     "12_result.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
+    "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -115,6 +118,21 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
+      "filename": "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "cnc-turning",
+        "gcode",
+        "machining",
+        "study-notes",
+        "manufacturing"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-16T12:37:00Z"
+    },
+    {
       "title": "Fundamentals of CNC Lathe Programming",
       "filename": "7-May-26, Fundamentals of CNC Lathe Programming.md",
       "note_type": "reference",
@@ -129,7 +147,7 @@
         "machining"
       ],
       "photos": [],
-      "modified_at": "2026-05-16T12:23:28Z"
+      "modified_at": "2026-05-16T12:26:45Z"
     },
     {
       "title": "Translate to Chinese",
@@ -190,14 +208,6 @@
     {
       "title": "Make longer",
       "filename": "Make longer.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Generate table of contents",
-      "filename": "Generate table of contents.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -274,7 +284,27 @@
       "note_type": "reference",
       "para_suggestion": "30_Resources",
       "created_date": "07-05-2026",
-      "modified_at": "2026-05-16T12:23:28Z",
+      "modified_at": "2026-05-16T12:26:45Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
+      "filename": "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
+      "tags": [
+        "cnc",
+        "cnc-turning",
+        "gcode",
+        "machining",
+        "study-notes",
+        "manufacturing"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "08-05-2026",
+      "modified_at": "2026-05-16T12:37:00Z",
       "status": "inbox",
       "source": "webapp"
     },
