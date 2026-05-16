@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-16T12:37:00Z",
-  "last_full_reindex": "2026-05-16T12:37:00Z",
-  "total_notes": 39,
+  "last_updated": "2026-05-16T12:46:18Z",
+  "last_full_reindex": "2026-05-16T12:46:18Z",
+  "total_notes": 40,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 3,
+    "reference": 4,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 2,
+    "20_Areas": 3,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -32,6 +32,7 @@
     "cnc",
     "cnc-turning",
     "degree",
+    "facing",
     "fanuc",
     "gcode",
     "government",
@@ -47,23 +48,26 @@
     "resume",
     "school",
     "siemens",
-    "study-notes"
+    "study",
+    "study-notes",
+    "turning"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 3,
+    "cnc": 4,
     "cnc-turning": 1,
     "degree": 1,
+    "facing": 1,
     "fanuc": 1,
-    "gcode": 3,
+    "gcode": 4,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 1,
-    "machining": 2,
+    "machining": 3,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -72,7 +76,9 @@
     "resume": 1,
     "school": 3,
     "siemens": 1,
-    "study-notes": 2
+    "study": 1,
+    "study-notes": 2,
+    "turning": 1
   },
   "orphan_notes": [
     "10_result.md",
@@ -80,6 +86,7 @@
     "12_result.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
     "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
+    "9-May-26, CNC Facing and OD Rough Turning Fundamentals.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
@@ -117,6 +124,21 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "CNC Facing and OD Rough Turning Fundamentals",
+      "filename": "9-May-26, CNC Facing and OD Rough Turning Fundamentals.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "facing",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-16T12:46:18Z"
+    },
     {
       "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
       "filename": "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
@@ -200,14 +222,6 @@
     {
       "title": "Make shorter",
       "filename": "Make shorter.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Make longer",
-      "filename": "Make longer.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -305,6 +319,26 @@
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "08-05-2026",
       "modified_at": "2026-05-16T12:37:00Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Facing and OD Rough Turning Fundamentals",
+      "filename": "9-May-26, CNC Facing and OD Rough Turning Fundamentals.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "facing",
+        "machining",
+        "study"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "09-05-2026",
+      "modified_at": "2026-05-16T12:46:18Z",
       "status": "inbox",
       "source": "webapp"
     },
