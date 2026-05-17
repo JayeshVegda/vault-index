@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-16T12:55:51Z",
-  "last_full_reindex": "2026-05-16T12:55:51Z",
-  "total_notes": 41,
+  "last_updated": "2026-05-17T05:33:41Z",
+  "last_full_reindex": "2026-05-17T05:33:41Z",
+  "total_notes": 42,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 5,
+    "reference": 6,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 4,
+    "20_Areas": 5,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -40,6 +40,7 @@
     "govt",
     "id",
     "lathe",
+    "lathe-programming",
     "machining",
     "manufacturing",
     "mca",
@@ -48,6 +49,7 @@
     "radius-programming",
     "result",
     "resume",
+    "roughing",
     "school",
     "siemens",
     "study",
@@ -59,18 +61,19 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 5,
+    "cnc": 6,
     "cnc-lathe": 1,
     "cnc-turning": 1,
     "degree": 1,
     "facing": 1,
     "fanuc": 1,
-    "gcode": 5,
+    "gcode": 6,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 1,
-    "machining": 4,
+    "lathe-programming": 1,
+    "machining": 5,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -78,26 +81,28 @@
     "radius-programming": 1,
     "result": 12,
     "resume": 1,
+    "roughing": 1,
     "school": 3,
     "siemens": 1,
-    "study": 2,
+    "study": 3,
     "study-notes": 2,
     "turning": 2
   },
   "orphan_notes": [
     "10_result.md",
-    "11-May-26, CNC Lathe Coordinate System G02 G03 Radius  Chamfer Programming Notes.md",
+    "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
     "12_leave.md",
     "12_result.md",
+    "15-May-26, CNC Roughing And Radius Turning Notes  15 May.md",
+    "5-May, G-Code & M-Code Notes.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
-    "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
-    "9-May-26, CNC Facing and OD Rough Turning Fundamentals.md",
+    "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
+    "9-May-26, Facing and OD Rough Turning Fundamentals.md",
     "Clip Web Page.md",
     "Clip YouTube Transcript.md",
     "Emojify.md",
     "Explain like I am 5.md",
     "Fix grammar and spelling.md",
-    "G-Code & M-Code Notes.md",
     "Generate glossary.md",
     "Generate table of contents.md",
     "Make longer.md",
@@ -130,8 +135,23 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "CNC Roughing And Radius Turning Notes - 15 May",
+      "filename": "15-May-26, CNC Roughing And Radius Turning Notes  15 May.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "roughing",
+        "lathe-programming",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-17T05:33:41Z"
+    },
+    {
       "title": "CNC Lathe Coordinate System, G02 G03 Radius & Chamfer Programming Notes",
-      "filename": "11-May-26, CNC Lathe Coordinate System G02 G03 Radius  Chamfer Programming Notes.md",
+      "filename": "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
       "note_type": "reference",
       "tags": [
         "cnc",
@@ -147,7 +167,7 @@
     },
     {
       "title": "CNC Facing and OD Rough Turning Fundamentals",
-      "filename": "9-May-26, CNC Facing and OD Rough Turning Fundamentals.md",
+      "filename": "9-May-26, Facing and OD Rough Turning Fundamentals.md",
       "note_type": "reference",
       "tags": [
         "cnc",
@@ -162,7 +182,7 @@
     },
     {
       "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
-      "filename": "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
+      "filename": "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
       "note_type": "reference",
       "tags": [
         "cnc",
@@ -231,14 +251,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Remove URLs",
-      "filename": "Remove URLs.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -261,7 +273,7 @@
     },
     {
       "title": "CNC Lathe Coordinate System, G02 G03 Radius & Chamfer Programming Notes",
-      "filename": "11-May-26, CNC Lathe Coordinate System G02 G03 Radius  Chamfer Programming Notes.md",
+      "filename": "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
       "tags": [
         "cnc",
         "cnc-lathe",
@@ -315,6 +327,45 @@
       "source": "manual"
     },
     {
+      "title": "CNC Roughing And Radius Turning Notes - 15 May",
+      "filename": "15-May-26, CNC Roughing And Radius Turning Notes  15 May.md",
+      "tags": [
+        "cnc",
+        "gcode",
+        "roughing",
+        "lathe-programming",
+        "machining",
+        "study"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "15-05-2026",
+      "modified_at": "2026-05-17T05:33:41Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "GCode & MCode Notes",
+      "filename": "5-May, G-Code & M-Code Notes.md",
+      "tags": [
+        "academics",
+        "cnc",
+        "gcode",
+        "mcode",
+        "manufacturing"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas",
+      "created_date": "Sun May 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
+      "modified_at": "2026-05-11T07:49:03Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
       "title": "Fundamentals of CNC Lathe Programming",
       "filename": "7-May-26, Fundamentals of CNC Lathe Programming.md",
       "tags": [
@@ -338,7 +389,7 @@
     },
     {
       "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
-      "filename": "8-May-26, CNC Turning Fundamentals  Program Structure WIP  Tool Clearance.md",
+      "filename": "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
       "tags": [
         "cnc",
         "cnc-turning",
@@ -358,7 +409,7 @@
     },
     {
       "title": "CNC Facing and OD Rough Turning Fundamentals",
-      "filename": "9-May-26, CNC Facing and OD Rough Turning Fundamentals.md",
+      "filename": "9-May-26, Facing and OD Rough Turning Fundamentals.md",
       "tags": [
         "cnc",
         "gcode",
@@ -559,25 +610,6 @@
       "modified_at": "2026-05-11T07:49:04Z",
       "status": "",
       "source": "manual"
-    },
-    {
-      "title": "GCode & MCode Notes",
-      "filename": "G-Code & M-Code Notes.md",
-      "tags": [
-        "academics",
-        "cnc",
-        "gcode",
-        "mcode",
-        "manufacturing"
-      ],
-      "backlinks": [],
-      "photos": [],
-      "note_type": "reference",
-      "para_suggestion": "20_Areas",
-      "created_date": "Sun May 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
-      "modified_at": "2026-05-11T07:49:03Z",
-      "status": "inbox",
-      "source": "webapp"
     },
     {
       "title": "Generate glossary",
