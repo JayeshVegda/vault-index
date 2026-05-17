@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-17T05:36:44Z",
-  "last_full_reindex": "2026-05-17T05:36:44Z",
-  "total_notes": 42,
+  "last_updated": "2026-05-17T05:56:09Z",
+  "last_full_reindex": "2026-05-17T05:56:09Z",
+  "total_notes": 43,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 6,
+    "reference": 7,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 5,
+    "20_Areas": 6,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -61,19 +61,19 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 6,
+    "cnc": 7,
     "cnc-lathe": 1,
     "cnc-turning": 1,
     "degree": 1,
     "facing": 1,
     "fanuc": 1,
-    "gcode": 6,
+    "gcode": 7,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 1,
     "lathe-programming": 1,
-    "machining": 5,
+    "machining": 6,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -84,16 +84,17 @@
     "roughing": 1,
     "school": 3,
     "siemens": 1,
-    "study": 3,
+    "study": 4,
     "study-notes": 2,
-    "turning": 2
+    "turning": 3
   },
   "orphan_notes": [
     "10_result.md",
+    "11-May-26, Drawing Part 1  Finishing Coordinates And Chamfer Practice.md",
     "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
     "12_leave.md",
     "12_result.md",
-    "15-May-26, CNC Roughing And Radius Turning Notes  15 May.md",
+    "15-May-26, CNC Roughing And Radius Turning Notes.md",
     "5-May, G-Code & M-Code Notes.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
     "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
@@ -135,19 +136,18 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
-      "title": "CNC Roughing And Radius Turning Notes - 15 May",
-      "filename": "15-May-26, CNC Roughing And Radius Turning Notes  15 May.md",
+      "title": "Drawing Part 1 - Finishing Coordinates And Chamfer Practice",
+      "filename": "11-May-26, Drawing Part 1  Finishing Coordinates And Chamfer Practice.md",
       "note_type": "reference",
       "tags": [
         "cnc",
+        "turning",
         "gcode",
-        "roughing",
-        "lathe-programming",
-        "machining",
-        "study"
+        "study",
+        "machining"
       ],
       "photos": [],
-      "modified_at": "2026-05-17T05:36:44Z"
+      "modified_at": "2026-05-17T05:56:09Z"
     },
     {
       "title": "CNC Lathe Coordinate System, G02 G03 Radius & Chamfer Programming Notes",
@@ -163,22 +163,7 @@
         "turning"
       ],
       "photos": [],
-      "modified_at": "2026-05-16T12:55:51Z"
-    },
-    {
-      "title": "CNC Facing and OD Rough Turning Fundamentals",
-      "filename": "9-May-26, Facing and OD Rough Turning Fundamentals.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "gcode",
-        "turning",
-        "facing",
-        "machining",
-        "study"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-16T12:51:16Z"
+      "modified_at": "2026-05-17T05:38:19Z"
     },
     {
       "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
@@ -193,7 +178,7 @@
         "manufacturing"
       ],
       "photos": [],
-      "modified_at": "2026-05-16T12:37:00Z"
+      "modified_at": "2026-05-17T05:38:14Z"
     },
     {
       "title": "Fundamentals of CNC Lathe Programming",
@@ -210,7 +195,51 @@
         "machining"
       ],
       "photos": [],
-      "modified_at": "2026-05-16T12:26:45Z"
+      "modified_at": "2026-05-17T05:38:13Z"
+    },
+    {
+      "title": "GCode & MCode Notes",
+      "filename": "5-May, G-Code & M-Code Notes.md",
+      "note_type": "reference",
+      "tags": [
+        "academics",
+        "cnc",
+        "gcode",
+        "mcode",
+        "manufacturing"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-17T05:38:09Z"
+    },
+    {
+      "title": "CNC Roughing And Radius Turning Notes - 15 May",
+      "filename": "15-May-26, CNC Roughing And Radius Turning Notes.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "roughing",
+        "lathe-programming",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-17T05:37:35Z"
+    },
+    {
+      "title": "CNC Facing and OD Rough Turning Fundamentals",
+      "filename": "9-May-26, Facing and OD Rough Turning Fundamentals.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "turning",
+        "facing",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-16T12:51:16Z"
     },
     {
       "title": "Translate to Chinese",
@@ -231,22 +260,6 @@
     {
       "title": "Simplify",
       "filename": "Simplify.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Rewrite as tweet",
-      "filename": "Rewrite as tweet.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Rewrite as tweet thread",
-      "filename": "Rewrite as tweet thread.md",
       "note_type": "",
       "tags": [],
       "photos": [],
@@ -272,6 +285,25 @@
       "source": "manual"
     },
     {
+      "title": "Drawing Part 1 - Finishing Coordinates And Chamfer Practice",
+      "filename": "11-May-26, Drawing Part 1  Finishing Coordinates And Chamfer Practice.md",
+      "tags": [
+        "cnc",
+        "turning",
+        "gcode",
+        "study",
+        "machining"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "11-05-2026",
+      "modified_at": "2026-05-17T05:56:09Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
       "title": "CNC Lathe Coordinate System, G02 G03 Radius & Chamfer Programming Notes",
       "filename": "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
       "tags": [
@@ -288,7 +320,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "11-05-2026",
-      "modified_at": "2026-05-16T12:55:51Z",
+      "modified_at": "2026-05-17T05:38:19Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -328,7 +360,7 @@
     },
     {
       "title": "CNC Roughing And Radius Turning Notes - 15 May",
-      "filename": "15-May-26, CNC Roughing And Radius Turning Notes  15 May.md",
+      "filename": "15-May-26, CNC Roughing And Radius Turning Notes.md",
       "tags": [
         "cnc",
         "gcode",
@@ -342,7 +374,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "15-05-2026",
-      "modified_at": "2026-05-17T05:36:44Z",
+      "modified_at": "2026-05-17T05:37:35Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -361,7 +393,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas",
       "created_date": "Sun May 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)",
-      "modified_at": "2026-05-11T07:49:03Z",
+      "modified_at": "2026-05-17T05:38:09Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -383,7 +415,7 @@
       "note_type": "reference",
       "para_suggestion": "30_Resources",
       "created_date": "07-05-2026",
-      "modified_at": "2026-05-16T12:26:45Z",
+      "modified_at": "2026-05-17T05:38:13Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -403,7 +435,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "08-05-2026",
-      "modified_at": "2026-05-16T12:37:00Z",
+      "modified_at": "2026-05-17T05:38:14Z",
       "status": "inbox",
       "source": "webapp"
     },
