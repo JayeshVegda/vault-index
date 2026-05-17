@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-17T06:08:09Z",
-  "last_full_reindex": "2026-05-17T06:08:09Z",
-  "total_notes": 44,
+  "last_updated": "2026-05-17T06:36:57Z",
+  "last_full_reindex": "2026-05-17T06:36:57Z",
+  "total_notes": 45,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 8,
+    "reference": 9,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 7,
+    "20_Areas": 8,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -61,19 +61,19 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 8,
+    "cnc": 9,
     "cnc-lathe": 1,
     "cnc-turning": 1,
     "degree": 1,
     "facing": 1,
     "fanuc": 1,
-    "gcode": 8,
+    "gcode": 9,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 1,
     "lathe-programming": 1,
-    "machining": 7,
+    "machining": 8,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -84,14 +84,15 @@
     "roughing": 1,
     "school": 3,
     "siemens": 1,
-    "study": 5,
+    "study": 6,
     "study-notes": 2,
-    "turning": 4
+    "turning": 5
   },
   "orphan_notes": [
     "10_result.md",
     "11-May-26, Drawing Part 1  Finishing Coordinates And Chamfer Practice.md",
     "11-May-26, Drawing Part 2 Finishing Coordinates With Chamfer And Radius.md",
+    "11-May-26, Drawing Part 3 Finishing Coordinates With Radius And Chamfer.md",
     "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
     "12_leave.md",
     "12_result.md",
@@ -137,6 +138,34 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "Drawing Part 3 Finishing Coordinates With Radius And Chamfer",
+      "filename": "11-May-26, Drawing Part 3 Finishing Coordinates With Radius And Chamfer.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "turning",
+        "gcode",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-17T06:36:57Z"
+    },
+    {
+      "title": "Drawing Part 1 - Finishing Coordinates And Chamfer Practice",
+      "filename": "11-May-26, Drawing Part 1  Finishing Coordinates And Chamfer Practice.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "turning",
+        "gcode",
+        "study",
+        "machining"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-17T06:24:46Z"
+    },
+    {
       "title": "Drawing Part 2 Finishing Coordinates With Chamfer And Radius",
       "filename": "11-May-26, Drawing Part 2 Finishing Coordinates With Chamfer And Radius.md",
       "note_type": "reference",
@@ -148,7 +177,7 @@
         "machining"
       ],
       "photos": [],
-      "modified_at": "2026-05-17T06:08:09Z"
+      "modified_at": "2026-05-17T06:24:18Z"
     },
     {
       "title": "Fundamentals of CNC Lathe Programming",
@@ -180,20 +209,6 @@
       ],
       "photos": [],
       "modified_at": "2026-05-17T06:01:11Z"
-    },
-    {
-      "title": "Drawing Part 1 - Finishing Coordinates And Chamfer Practice",
-      "filename": "11-May-26, Drawing Part 1  Finishing Coordinates And Chamfer Practice.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "turning",
-        "gcode",
-        "study",
-        "machining"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-17T05:59:50Z"
     },
     {
       "title": "CNC Lathe Coordinate System, G02 G03 Radius & Chamfer Programming Notes",
@@ -263,14 +278,6 @@
       "tags": [],
       "photos": [],
       "modified_at": "2026-05-11T07:49:04Z"
-    },
-    {
-      "title": "Summarize",
-      "filename": "Summarize.md",
-      "note_type": "",
-      "tags": [],
-      "photos": [],
-      "modified_at": "2026-05-11T07:49:04Z"
     }
   ],
   "notes": [
@@ -306,7 +313,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "11-05-2026",
-      "modified_at": "2026-05-17T05:59:50Z",
+      "modified_at": "2026-05-17T06:24:46Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -325,7 +332,26 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "11-05-2026",
-      "modified_at": "2026-05-17T06:08:09Z",
+      "modified_at": "2026-05-17T06:24:18Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "Drawing Part 3 Finishing Coordinates With Radius And Chamfer",
+      "filename": "11-May-26, Drawing Part 3 Finishing Coordinates With Radius And Chamfer.md",
+      "tags": [
+        "cnc",
+        "turning",
+        "gcode",
+        "machining",
+        "study"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "11-05-2026",
+      "modified_at": "2026-05-17T06:36:57Z",
       "status": "inbox",
       "source": "webapp"
     },
