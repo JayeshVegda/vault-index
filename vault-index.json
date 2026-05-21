@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-17T06:42:58Z",
-  "last_full_reindex": "2026-05-17T06:42:58Z",
-  "total_notes": 46,
+  "last_updated": "2026-05-21T11:17:19Z",
+  "last_full_reindex": "2026-05-21T11:17:19Z",
+  "total_notes": 47,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 10,
+    "reference": 11,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 9,
+    "20_Areas": 10,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -33,6 +33,7 @@
     "cnc-lathe",
     "cnc-turning",
     "degree",
+    "drilling",
     "facing",
     "fanuc",
     "gcode",
@@ -54,6 +55,7 @@
     "siemens",
     "study",
     "study-notes",
+    "threading",
     "turning"
   ],
   "tag_frequency": {
@@ -61,19 +63,20 @@
     "academics": 16,
     "bca": 6,
     "certificate": 1,
-    "cnc": 10,
+    "cnc": 11,
     "cnc-lathe": 1,
     "cnc-turning": 1,
     "degree": 1,
+    "drilling": 1,
     "facing": 1,
     "fanuc": 1,
-    "gcode": 10,
+    "gcode": 11,
     "government": 1,
     "govt": 1,
     "id": 2,
-    "lathe": 1,
+    "lathe": 2,
     "lathe-programming": 1,
-    "machining": 9,
+    "machining": 10,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -84,8 +87,9 @@
     "roughing": 1,
     "school": 3,
     "siemens": 1,
-    "study": 7,
+    "study": 8,
     "study-notes": 2,
+    "threading": 1,
     "turning": 6
   },
   "orphan_notes": [
@@ -98,6 +102,7 @@
     "12_leave.md",
     "12_result.md",
     "15-May-26, CNC Roughing And Radius Turning Notes.md",
+    "21-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
     "5-May, G-Code & M-Code Notes.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
     "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
@@ -139,6 +144,22 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "CNC Threading And Drilling Basics For Lathe Machine",
+      "filename": "21-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "threading",
+        "drilling",
+        "lathe",
+        "gcode",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-21T11:17:19Z"
+    },
+    {
       "title": "Drawing Part 4 Finishing Coordinates With Radius And Chamfer",
       "filename": "11-May-26, Drawing Part 4 Finishing Coordinates With Radius And Chamfer.md",
       "note_type": "reference",
@@ -150,7 +171,7 @@
         "study"
       ],
       "photos": [],
-      "modified_at": "2026-05-17T06:42:58Z"
+      "modified_at": "2026-05-17T06:43:45Z"
     },
     {
       "title": "Drawing Part 3 Finishing Coordinates With Radius And Chamfer",
@@ -270,21 +291,6 @@
       ],
       "photos": [],
       "modified_at": "2026-05-17T05:37:35Z"
-    },
-    {
-      "title": "CNC Facing and OD Rough Turning Fundamentals",
-      "filename": "9-May-26, Facing and OD Rough Turning Fundamentals.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "gcode",
-        "turning",
-        "facing",
-        "machining",
-        "study"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-16T12:51:16Z"
     }
   ],
   "notes": [
@@ -377,7 +383,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "11-05-2026",
-      "modified_at": "2026-05-17T06:42:58Z",
+      "modified_at": "2026-05-17T06:43:45Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -453,6 +459,27 @@
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "15-05-2026",
       "modified_at": "2026-05-17T05:37:35Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Threading And Drilling Basics For Lathe Machine",
+      "filename": "21-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
+      "tags": [
+        "cnc",
+        "threading",
+        "drilling",
+        "lathe",
+        "gcode",
+        "machining",
+        "study"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "21-05-2026",
+      "modified_at": "2026-05-21T11:17:19Z",
       "status": "inbox",
       "source": "webapp"
     },
