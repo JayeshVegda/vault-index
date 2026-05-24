@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-21T11:17:19Z",
-  "last_full_reindex": "2026-05-21T11:17:19Z",
-  "total_notes": 47,
+  "last_updated": "2026-05-24T17:36:28Z",
+  "last_full_reindex": "2026-05-24T17:36:28Z",
+  "total_notes": 48,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 11,
+    "reference": 12,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 10,
+    "20_Areas": 11,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -28,6 +28,7 @@
     "aadhaar",
     "academics",
     "bca",
+    "boring",
     "certificate",
     "cnc",
     "cnc-lathe",
@@ -56,27 +57,29 @@
     "study",
     "study-notes",
     "threading",
+    "tool-offset",
     "turning"
   ],
   "tag_frequency": {
     "aadhaar": 1,
     "academics": 16,
     "bca": 6,
+    "boring": 1,
     "certificate": 1,
-    "cnc": 11,
-    "cnc-lathe": 1,
+    "cnc": 12,
+    "cnc-lathe": 2,
     "cnc-turning": 1,
     "degree": 1,
     "drilling": 1,
     "facing": 1,
     "fanuc": 1,
-    "gcode": 11,
+    "gcode": 12,
     "government": 1,
     "govt": 1,
     "id": 2,
     "lathe": 2,
     "lathe-programming": 1,
-    "machining": 10,
+    "machining": 11,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -87,9 +90,10 @@
     "roughing": 1,
     "school": 3,
     "siemens": 1,
-    "study": 8,
+    "study": 9,
     "study-notes": 2,
     "threading": 1,
+    "tool-offset": 1,
     "turning": 6
   },
   "orphan_notes": [
@@ -102,7 +106,8 @@
     "12_leave.md",
     "12_result.md",
     "15-May-26, CNC Roughing And Radius Turning Notes.md",
-    "21-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
+    "20-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
+    "21-May-26, CNC Lathe Boring Operation And Internal Bore Offset Correction.md",
     "5-May, G-Code & M-Code Notes.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
     "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
@@ -144,8 +149,24 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "CNC Lathe Boring Operation And Internal Bore Offset Correction",
+      "filename": "21-May-26, CNC Lathe Boring Operation And Internal Bore Offset Correction.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "boring",
+        "cnc-lathe",
+        "gcode",
+        "machining",
+        "study",
+        "tool-offset"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-24T17:36:27Z"
+    },
+    {
       "title": "CNC Threading And Drilling Basics For Lathe Machine",
-      "filename": "21-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
+      "filename": "20-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
       "note_type": "reference",
       "tags": [
         "cnc",
@@ -157,7 +178,7 @@
         "study"
       ],
       "photos": [],
-      "modified_at": "2026-05-21T11:17:19Z"
+      "modified_at": "2026-05-21T11:19:51Z"
     },
     {
       "title": "Drawing Part 4 Finishing Coordinates With Radius And Chamfer",
@@ -276,21 +297,6 @@
       ],
       "photos": [],
       "modified_at": "2026-05-17T05:38:14Z"
-    },
-    {
-      "title": "CNC Roughing And Radius Turning Notes - 15 May",
-      "filename": "15-May-26, CNC Roughing And Radius Turning Notes.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "gcode",
-        "roughing",
-        "lathe-programming",
-        "machining",
-        "study"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-17T05:37:35Z"
     }
   ],
   "notes": [
@@ -464,7 +470,7 @@
     },
     {
       "title": "CNC Threading And Drilling Basics For Lathe Machine",
-      "filename": "21-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
+      "filename": "20-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
       "tags": [
         "cnc",
         "threading",
@@ -478,8 +484,29 @@
       "photos": [],
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
+      "created_date": "20-05-2026",
+      "modified_at": "2026-05-21T11:19:51Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC Lathe Boring Operation And Internal Bore Offset Correction",
+      "filename": "21-May-26, CNC Lathe Boring Operation And Internal Bore Offset Correction.md",
+      "tags": [
+        "cnc",
+        "boring",
+        "cnc-lathe",
+        "gcode",
+        "machining",
+        "study",
+        "tool-offset"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
       "created_date": "21-05-2026",
-      "modified_at": "2026-05-21T11:17:19Z",
+      "modified_at": "2026-05-24T17:36:27Z",
       "status": "inbox",
       "source": "webapp"
     },
