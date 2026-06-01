@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-24T17:36:28Z",
-  "last_full_reindex": "2026-05-24T17:36:28Z",
-  "total_notes": 48,
+  "last_updated": "2026-06-01T05:17:52Z",
+  "last_full_reindex": "2026-06-01T05:17:52Z",
+  "total_notes": 49,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 12,
+    "reference": 13,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 11,
+    "20_Areas": 12,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -33,6 +33,7 @@
     "cnc",
     "cnc-lathe",
     "cnc-turning",
+    "contour-turning",
     "degree",
     "drilling",
     "facing",
@@ -53,7 +54,9 @@
     "resume",
     "roughing",
     "school",
+    "shopturn",
     "siemens",
+    "sinutrain",
     "study",
     "study-notes",
     "threading",
@@ -66,9 +69,10 @@
     "bca": 6,
     "boring": 1,
     "certificate": 1,
-    "cnc": 12,
+    "cnc": 13,
     "cnc-lathe": 2,
     "cnc-turning": 1,
+    "contour-turning": 1,
     "degree": 1,
     "drilling": 1,
     "facing": 1,
@@ -89,8 +93,10 @@
     "resume": 1,
     "roughing": 1,
     "school": 3,
-    "siemens": 1,
-    "study": 9,
+    "shopturn": 1,
+    "siemens": 2,
+    "sinutrain": 1,
+    "study": 10,
     "study-notes": 2,
     "threading": 1,
     "tool-offset": 1,
@@ -108,6 +114,7 @@
     "15-May-26, CNC Roughing And Radius Turning Notes.md",
     "20-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
     "21-May-26, CNC Lathe Boring Operation And Internal Bore Offset Correction.md",
+    "29-May-26, Siemens SinuTrain ShopTurn Contour Creation Contour Call And Stock Removal.md",
     "5-May, G-Code & M-Code Notes.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
     "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
@@ -149,6 +156,36 @@
   "top_backlink_targets": [],
   "last_10_notes": [
     {
+      "title": "Siemens SinuTrain ShopTurn Contour Creation, Contour Call And Stock Removal",
+      "filename": "29-May-26, Siemens SinuTrain ShopTurn Contour Creation Contour Call And Stock Removal.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "siemens",
+        "sinutrain",
+        "shopturn",
+        "contour-turning",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-06-01T05:17:52Z"
+    },
+    {
+      "title": "CNC Roughing And Radius Turning Notes - 15 May",
+      "filename": "15-May-26, CNC Roughing And Radius Turning Notes.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "gcode",
+        "roughing",
+        "lathe-programming",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-05-25T13:17:27Z"
+    },
+    {
       "title": "CNC Lathe Boring Operation And Internal Bore Offset Correction",
       "filename": "21-May-26, CNC Lathe Boring Operation And Internal Bore Offset Correction.md",
       "note_type": "reference",
@@ -162,7 +199,7 @@
         "tool-offset"
       ],
       "photos": [],
-      "modified_at": "2026-05-24T17:36:27Z"
+      "modified_at": "2026-05-24T17:38:39Z"
     },
     {
       "title": "CNC Threading And Drilling Basics For Lathe Machine",
@@ -178,7 +215,7 @@
         "study"
       ],
       "photos": [],
-      "modified_at": "2026-05-21T11:19:51Z"
+      "modified_at": "2026-05-24T17:37:00Z"
     },
     {
       "title": "Drawing Part 4 Finishing Coordinates With Radius And Chamfer",
@@ -266,37 +303,6 @@
       ],
       "photos": [],
       "modified_at": "2026-05-17T06:01:11Z"
-    },
-    {
-      "title": "CNC Lathe Coordinate System, G02 G03 Radius & Chamfer Programming Notes",
-      "filename": "11-May-26, G02 G03 Radius  Chamfer Programming Notes.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "cnc-lathe",
-        "gcode",
-        "machining",
-        "study",
-        "radius-programming",
-        "turning"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-17T05:38:19Z"
-    },
-    {
-      "title": "CNC Turning Fundamentals - Program Structure, WIP & Tool Clearance",
-      "filename": "8-May-26, Turningm  Fundamentals Program Structure WIP  Tool Clearance.md",
-      "note_type": "reference",
-      "tags": [
-        "cnc",
-        "cnc-turning",
-        "gcode",
-        "machining",
-        "study-notes",
-        "manufacturing"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-17T05:38:14Z"
     }
   ],
   "notes": [
@@ -464,7 +470,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "15-05-2026",
-      "modified_at": "2026-05-17T05:37:35Z",
+      "modified_at": "2026-05-25T13:17:27Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -485,7 +491,7 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "20-05-2026",
-      "modified_at": "2026-05-21T11:19:51Z",
+      "modified_at": "2026-05-24T17:37:00Z",
       "status": "inbox",
       "source": "webapp"
     },
@@ -506,7 +512,27 @@
       "note_type": "reference",
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "21-05-2026",
-      "modified_at": "2026-05-24T17:36:27Z",
+      "modified_at": "2026-05-24T17:38:39Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "Siemens SinuTrain ShopTurn Contour Creation, Contour Call And Stock Removal",
+      "filename": "29-May-26, Siemens SinuTrain ShopTurn Contour Creation Contour Call And Stock Removal.md",
+      "tags": [
+        "cnc",
+        "siemens",
+        "sinutrain",
+        "shopturn",
+        "contour-turning",
+        "study"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "29-05-2026",
+      "modified_at": "2026-06-01T05:17:52Z",
       "status": "inbox",
       "source": "webapp"
     },
