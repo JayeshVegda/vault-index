@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-01T05:17:52Z",
-  "last_full_reindex": "2026-06-01T05:17:52Z",
-  "total_notes": 49,
+  "last_updated": "2026-06-01T05:28:46Z",
+  "last_full_reindex": "2026-06-01T05:28:46Z",
+  "total_notes": 50,
   "note_type_counts": {
     "idea": 0,
     "fleeting": 0,
-    "reference": 13,
+    "reference": 14,
     "task": 0,
     "log": 0,
     "meeting": 0,
@@ -19,7 +19,7 @@
   "para_folder_counts": {
     "00_Inbox": 0,
     "10_Projects": 0,
-    "20_Areas": 12,
+    "20_Areas": 13,
     "30_Resources": 1,
     "40_Archives": 0,
     "99_System": 0
@@ -60,6 +60,7 @@
     "study",
     "study-notes",
     "threading",
+    "tool-measurement",
     "tool-offset",
     "turning"
   ],
@@ -69,7 +70,7 @@
     "bca": 6,
     "boring": 1,
     "certificate": 1,
-    "cnc": 13,
+    "cnc": 14,
     "cnc-lathe": 2,
     "cnc-turning": 1,
     "contour-turning": 1,
@@ -83,7 +84,7 @@
     "id": 2,
     "lathe": 2,
     "lathe-programming": 1,
-    "machining": 11,
+    "machining": 12,
     "manufacturing": 3,
     "mca": 6,
     "mcode": 1,
@@ -95,11 +96,12 @@
     "school": 3,
     "shopturn": 1,
     "siemens": 2,
-    "sinutrain": 1,
-    "study": 10,
+    "sinutrain": 2,
+    "study": 11,
     "study-notes": 2,
     "threading": 1,
-    "tool-offset": 1,
+    "tool-measurement": 1,
+    "tool-offset": 2,
     "turning": 6
   },
   "orphan_notes": [
@@ -114,6 +116,7 @@
     "15-May-26, CNC Roughing And Radius Turning Notes.md",
     "20-May-26, CNC Threading And Drilling Basics For Lathe Machine.md",
     "21-May-26, CNC Lathe Boring Operation And Internal Bore Offset Correction.md",
+    "26-May-26, CNC SinuTrain Tool Measurement Using TSM And Manual Offset Entry.md",
     "29-May-26, Siemens SinuTrain ShopTurn Contour Creation Contour Call And Stock Removal.md",
     "5-May, G-Code & M-Code Notes.md",
     "7-May-26, Fundamentals of CNC Lathe Programming.md",
@@ -155,6 +158,21 @@
   ],
   "top_backlink_targets": [],
   "last_10_notes": [
+    {
+      "title": "CNC SinuTrain Tool Measurement Using TSM And Manual Offset Entry",
+      "filename": "26-May-26, CNC SinuTrain Tool Measurement Using TSM And Manual Offset Entry.md",
+      "note_type": "reference",
+      "tags": [
+        "cnc",
+        "sinutrain",
+        "tool-offset",
+        "tool-measurement",
+        "machining",
+        "study"
+      ],
+      "photos": [],
+      "modified_at": "2026-06-01T05:28:46Z"
+    },
     {
       "title": "Siemens SinuTrain ShopTurn Contour Creation, Contour Call And Stock Removal",
       "filename": "29-May-26, Siemens SinuTrain ShopTurn Contour Creation Contour Call And Stock Removal.md",
@@ -289,20 +307,6 @@
       ],
       "photos": [],
       "modified_at": "2026-05-17T06:02:59Z"
-    },
-    {
-      "title": "GCode & MCode Notes",
-      "filename": "5-May, G-Code & M-Code Notes.md",
-      "note_type": "reference",
-      "tags": [
-        "academics",
-        "cnc",
-        "gcode",
-        "mcode",
-        "manufacturing"
-      ],
-      "photos": [],
-      "modified_at": "2026-05-17T06:01:11Z"
     }
   ],
   "notes": [
@@ -513,6 +517,26 @@
       "para_suggestion": "20_Areas/20_Study",
       "created_date": "21-05-2026",
       "modified_at": "2026-05-24T17:38:39Z",
+      "status": "inbox",
+      "source": "webapp"
+    },
+    {
+      "title": "CNC SinuTrain Tool Measurement Using TSM And Manual Offset Entry",
+      "filename": "26-May-26, CNC SinuTrain Tool Measurement Using TSM And Manual Offset Entry.md",
+      "tags": [
+        "cnc",
+        "sinutrain",
+        "tool-offset",
+        "tool-measurement",
+        "machining",
+        "study"
+      ],
+      "backlinks": [],
+      "photos": [],
+      "note_type": "reference",
+      "para_suggestion": "20_Areas/20_Study",
+      "created_date": "26-05-2026",
+      "modified_at": "2026-06-01T05:28:46Z",
       "status": "inbox",
       "source": "webapp"
     },
